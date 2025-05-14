@@ -1,601 +1,605 @@
-SMILES,Zinc_ID
-C(#N)c1ccc(cc1)/C=C/C[NH2+]Cc1cccc(c1)CO,ZINC89787515
-C(#N)CCCOc1cccc(c1)NCc1cccc(c1)O,ZINC37777353
-c1cc(cc2c1cn[nH]2)C(=O)NCCCCCCC(=O)[O-],ZINC37453641
-C(#N)c1ccc(cc1)/C=C/C=C/C(=O)c1cc(ccc1O)O,ZINC89589828
-C(#N)c1ccc(cc1)NC(=O)CSc1cc(ccc1C)N,ZINC91941902
-c1cc(cc(c1)O)NC(=O)/C=C/C(=O)Nc1cccc(c1)O,ZINC00208407
-c1cc(cc(c1)O)/C=N/NC(=O)N/N=C/c1cccc(c1)O,ZINC00171951
-c1cc(cc(c1)O)CCNC(=O)CCc1ccc(cc1)OC,ZINC58295955
-c1cc(ccc1CO)OCCCOc1ccc(cc1)[N+](=O)[O-],ZINC78380325
-c1cc(ccc1C(=O)N1CC[NH+](CC1)CCCCCCO)O,ZINC85785413
-C(#N)c1ccc(cc1)NCC(=O)Nc1cc(ccc1C)C(=O)N,ZINC69486930
-c1cnc(cc1O[C@@H]1CC[N@H+](CC1)CCCCCO)C(=O)N,ZINC93260857
-C(#N)c1ccc(cc1)O[C@@H](C(=O)N(C)Cc1ccc(cc1)O)C,ZINC41676587
-c1cc(cc(c1)N)CCC(=O)Nc1ccc(cc1)N(C(=O)C)C,ZINC66153543
-C(#N)c1ccc(cc1)OCCNc1cc(cc(c1C)F)C(=O)N,ZINC95395009
-c1cc(cnc1)OCCCC(=O)Nc1ccc(c(c1)C(=O)N)C,ZINC79949646
-C(#N)c1cccc(c1)O[C@@H]1CC[N@H+](CC1)Cc1ccc(CO)o1,ZINC92034342
-c1cc(cc(c1)O)/C=N/NC(=O)CCc1ccc(cc1O)OC,ZINC59148804
-C(#N)c1cnn(c1)CC[N@@H+]1CCC[C@H](c2cc(C(=O)N)[nH]n2)C1,ZINC76060310
-C(#N)c1ccc2c(ccc(n2)NCc2cccc(c2)C(=O)NC)c1,ZINC92890315
-C(#N)c1ccc(cc1)/C=C/C[NH2+]Cc1ccc(cc1)C(=O)NCC,ZINC89784427
-C(#N)c1ccc(nc1)N1CCC(CC1)Nc1cc(ccn1)C(=O)N,ZINC66818609
-C(#N)c1ccc(cc1)CCC(=O)Nc1nc(cs1)c1ccc[nH]1,ZINC24703054
-c1cc(cc(c1)OC)C(=O)Nc1ccc(cc1)c1ccc(CO)o1,ZINC20141404
-c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(cc1)OC,ZINC20141666
-C(#N)CCN(c1ccc(cc1)C[NH2+]Cc1cccc(c1)C(=O)N)C,ZINC78358171
-C(#N)c1ccc(cc1)[C@@H](C)NC(=O)NCc1ccc(c(c1)O)OC,ZINC79533135
-C(#N)CSc1cccc(c1)C(=O)NCc1cccc(c1)C(=O)N,ZINC79400753
-C(#N)c1ccc(cc1)N1C(=O)[C@@H](CC1)Sc1nc(cc(n1)N)C,ZINC78359297
-C(#N)c1ccc(c(c1)F)C[NH+]1CCN(CC1)Cc1cccc(c1)O,ZINC81011267
-c1cc(cc(c1C(=O)C)C)NC(=O)NCCCc1ccc(cc1)O,ZINC89466226
-c1cc(cc(c1)N)/C(=N/NC(=O)CNc1ccc(cc1)OCC)/C,ZINC00524625
-C(#N)COc1cccc(c1)CC(=O)Nc1ccc(cc1F)C(=O)N,ZINC89820421
-c1cc(cc(c1)O)/C=N/NC(=O)C(=O)Nc1ccc(cc1)OCC,ZINC04261146
-c1cc(ccc1/C=N/NC(=O)CCCc1ccc(cc1)O)[N+](=O)[O-],ZINC06241861
-c1cc(ccc1c1nnc(C)o1)NC(=O)Nc1cnn(c1)CCO,ZINC80158387
-c1cc(cc(c1)O)NC(=S)NC(=O)/C=C/c1ccc(cc1)OC,ZINC14003828
-c1cc(ccc1C=O)OCCC(=O)Nc1ccc(c(c1)C(=O)N)F,ZINC68264839
-c1cc(cc(c1)OCC(=O)N/N=C/c1cc(ccc1O)O)[N+](=O)[O-],ZINC01021841
-c1cc(ccc1C(=O)NCCCc1c(C)nc([nH]c1=O)N)[N+](=O)[O-],ZINC17014782
-C(#N)COc1ccc(cc1)/C=C/C(=O)Nc1ccc2c(c1)[nH]nc2C,ZINC91825869
-c1cc(cc(c1)O)CC(=O)N[C@@H](c1ccc(cc1)c1ccncc1)C,ZINC74828509
-C(#N)c1ccc(cc1)/C=C/CNc1cccc(c1)N1C(=O)NCCC1,ZINC89791605
-c1cc(ccc1CCCNC(=O)CCC1CCN(C(=O)C)CC1)O,ZINC80376323
-c1cc(c(cc1/C=N/NC(=O)CNc1c(=O)[nH]c(=O)[nH]n1)O)OC,ZINC01800800
-C(#N)c1ccc(cc1)NCC(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2,ZINC89996236
-C(#N)c1ccc(cc1)N1C(=O)[C@H](CC1)Nc1cc(ccc1C)C(=O)N,ZINC89646908
-c1cc(ccc1[C@H]1CC[C@H](CC1)[N@@H+]1CC[C@@H](C1)COCCOC)O,ZINC93754565
-c1cc(ccc1C(=O)N)CNC(=O)c1cnn(c2ccncc2)c1C,ZINC90086348
-C(#N)c1ccc2c(ccc(n2)NCc2ccc(c(c2)F)C[NH+](C)C)c1,ZINC92940503
-c1cc(cc(c1)CCNCc1ccc(cc1)n1cncn1)C(=O)NC,ZINC77431486
-c1cc(ccc1OC)OCCCNc1c(cc(cn1)C(=O)N)Cl,ZINC57149081
-c1cc(ccc1Cn1cc(C(=O)Nc2ccc(cc2)OCC)nc1)N,ZINC71775346
-c1cc(ccc1c1nc(C)n[nH]1)C(=O)NCCCc1ccc(cc1)O,ZINC73819157
-c1c(C(=O)N)[nH]nc1[C@H]1CCC[N@H+](C1)CC(=O)NC[C@@H]1CCOC1,ZINC76060291
-c1cc(cc(c1)O)[C@@H](C)N(C(=O)NCCCOC1CCOCC1)C,ZINC74540803
-c1cc(cc(c1)[N+](=O)[O-])C(=O)NNC(=O)CSc1nc([nH]n1)N,ZINC10715902
-c1cc(ccc1c1cnnc(n1)N/N=C/c1ccc(c(c1)O)O)OC,ZINC04351324
-C(#N)c1cc(C(=O)Nc2ccc(cc2)n2ccc(C(=O)N)n2)sc1,ZINC84091957
-c1cc(cc(c1)NC(=O)c1cc(C)n(c2ccc(cc2)OC)n1)CO,ZINC92215344
-c1cc(cc(c1)NC(=O)CC)NC(=O)/C=C/c1ccc(cc1)C(=O)N,ZINC81524275
-C(#N)c1ccc(cc1)[C@H](C)NC(=O)Nc1cc(ccc1OC)C(=O)N,ZINC45645761
-c1cc(cc(c1)O)CC(=O)N1CC[C@@H](C1)Cc1ccc(cc1)C(=O)[O-],ZINC72469121
-c1cc(cc(c1)O)CC(=O)N1CC[C@H](C1)Cc1ccc(cc1)C(=O)[O-],ZINC72469124
-C(#N)c1ccc(cc1)NCC(=O)Nc1c(C#N)c(CCC[NH2+]C)n[nH]1,ZINC89662112
-C(#N)c1ccc(cc1)O[C@@H](C(=O)NCc1ccc(cc1)C[NH+](C)C)C,ZINC23962236
-c1cc(cc(c1)OCc1nc(c2ccc(cc2)OCC)no1)C(=O)N,ZINC78385208
-c1cc(cc(c1)OCc1nc(c2ccc(cc2)OC)on1)CC(=O)N,ZINC67099335
-c1cc(cc(c1)NC(=O)CNc1cccc(c1C)C(=O)NC)C(=O)C,ZINC79170493
-c1cc(C(=O)NC)nc(c1)N1CCN(c2ccc(cc2)C(=O)N)CC1,ZINC78291175
-c1cc(ccc1c1nc(co1)COc1ccc(cc1)CCO)[N+](=O)[O-],ZINC89740245
-c1cc(ccc1C(=O)N)COC(=O)c1ccc(cc1)N1CCOCC1,ZINC58385277
-C(#N)c1ccc(cc1)CSCC(=O)Oc1cccc(c1)C(=O)NC,ZINC49697501
-c1cnccc1c1ncc(cn1)C(=O)NCCCc1csc(n1)N,ZINC95373325
-c1cc(cc(c1)O)CC(=O)N1CCN(c2ccc(cc2)[N+](=O)[O-])CC1,ZINC63535233
-C(#N)c1cccc(c1)OCCCCC(=O)Nc1c(cn(C)n1)C(=O)N,ZINC93282188
-c1cc(cc(c1)CNc1ccc(cc1)C(=O)NCCCO)C(=O)NC,ZINC83141786
-c1cc(cc(c1)O)CN1CCN(C(=O)Nc2ccc(cc2)OC)CC1,ZINC58282183
-c1cc(c(cc1CNC(=O)Nc1ccc(nc1)n1cncn1)F)CO,ZINC56501638
-c1cc(cc(c1)O)C(=O)O[C@@H](C(=O)Nc1ccc(cc1)NC(=O)C)C,ZINC09256107
-c1cc(ccc1CO)OCC(=O)Nc1ccc(cc1)N1CCOCC1,ZINC03337666
-c1cc(c(cc1CC(=O)NNC(=O)CCc1ccc(cc1)OC)O)C,ZINC89437810
-c1cc(c(cc1CC(=O)NCC(=O)Nc1ccc(cc1)OCC)O)C,ZINC89438063
-c1cc(cc(c1)OCC(=O)Nc1ccc(cc1)N1CCOCC1)CO,ZINC89128467
-c1cc(cc(c1)O)NC(=S)NC(=O)/C=C/c1ccc(cc1)OCC,ZINC13620949
-c1cc(cc(c1)NC(=O)NCCCc1ccc(cc1)OC)C[NH+](C)C,ZINC56600943
-c1cc(c(cc1C(=O)OCC(=O)NC(=O)c1ccc(cc1)OC)O)C,ZINC08705939
-c1cc(cc(c1)O)/C=N/NC(=O)C(=O)Nc1ccc(cc1OC)OC,ZINC04499509
-c1cc(ccc1C(=O)N1CCN(C(=O)CCCn2cncn2)CC1)O,ZINC77493011
-c1cc(ccc1CC[C@H]1CCCCN1C(=O)CCc1cc(=[O-])[nH]o1)O,ZINC55153458
-C(#N)c1ccc(cc1)/C=C/C[N@H+]1CC[C@H](c2c[nH]c3c2cccn3)CC1,ZINC91955092
-c1cc(cc(c1NCC[NH2+]CCOc1c(non1)N)Cl)[N+](=O)[O-],ZINC59384047
-c1cc(ccc1C(=O)OC)CCC(=O)Nc1ccc(c(c1)C(=O)N)F,ZINC68088866
-c1cc(cc(c1)NCc1ccc(cc1)Oc1cnccn1)c1nc[nH]n1,ZINC95437430
-C(#N)CCN(C(=O)CC[N@@H+]1CC[C@H](C(=O)c2ccc(cc2)O)CC1)C,ZINC92802629
-c1cc(cc(c1)O)c1ccc(cn1)c1nc(c2ccc(cc2)OC)no1,ZINC72148253
-c1cc(ccc1C(=O)N)NC(=O)CSCc1ccc(cc1)[N+](=O)[O-],ZINC24605896
-c1cc(cc(c1)O)N1CC[NH+](CC1)CCn1cc(ccc1=O)[N+](=O)[O-],ZINC90516270
-c1cc(ccc1c1ccc(C[NH2+]CCCN2CCOCC2)o1)[C@@H](C)O,ZINC19872330
-c1cc(cc(c1)O)CN1CC[NH+](CC1)Cc1ccc(cc1)[S@](=O)C,ZINC92789655
-c1ccc(c(c1)/C=[NH+]/[C@@H](c1ccc(cc1)NC(=O)c1ccncc1)C)O,ZINC72613596
-c1cc(c(cc1N)NC(=O)CC[N@@H+]1CC[C@@H](C1)Cc1cnn(c1)C)F,ZINC83216954
-c1cc(cc(c1)O)C[N@H+]1CCC[C@H](C1)NC(=O)c1cn(CC[NH3+])nn1,ZINC77339169
-c1cc(ccc1C(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2)n1cnnc1,ZINC89996799
-c1cc(ncc1C(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2)n1ccnc1,ZINC89996607
-c1cc(cc(c1)NC(=O)N)NC(=O)/C=C/c1ccc(cc1)n1ccnc1,ZINC73667858
-c1cc(ncc1[N+](=O)[O-])N[C@@H]1CCN(C1)Cc1cc(cs1)C(=O)N,ZINC93534779
-C(#N)c1ccc(cc1)N(C(=O)CCc1cccc(c1)C(=O)NC)C1CC1,ZINC89842447
-c1cc(cc2c1[nH]nc2C(=O)N)NC(=O)c1cc(c2ccncc2)on1,ZINC89798219
-c1cc(cc2c1cc[nH]2)C(=O)Nc1ccc(cc1)OCc1nc(C)no1,ZINC74637981
-c1cc(cc(c1)O)c1ncc(cn1)NC(=O)c1cccc(c1)NC(=O)C,ZINC57883189
-c1cc(ccc1C(=O)C)C(=O)Nc1ccc(cc1)n1ccc(C(=O)N)n1,ZINC78612334
-c1cc(ccc1CC(=O)OCC(=O)Nc1c(ccs1)C(=O)N)OC,ZINC03406014
-c1cc(cc(c1)NC(=O)CCc1cccc(c1)C(=O)NC)c1cn[nH]c1,ZINC90498355
-c1cc(cc(c1)[N+](=O)[O-])n1ccc(C(=O)Oc2ccc3cn[nH]c3c2)n1,ZINC86025316
-c1cc(cc(c1)O)/C=C\1/C(=O)N(C(=O)S1)CC(=O)NCCC(=O)[O-],ZINC15050291
-c1cc(nc2c1C(=NC=[NH+]2)NCc1cn(c2ccc(cc2)OC)nn1)N,ZINC90110041
-c1cc(cc(c1)NC(=O)CCc1ccc(cc1)C(=O)OC)c1cn[nH]c1,ZINC90497709
-c1cc2c(cc[nH]2)c(c1)NC(=O)[C@@H]1CC(=O)N(c2ccc(cc2)OC)C1,ZINC72400665
-c1cc(cc2c1cc[nH]2)C(=O)Nc1ccc(cc1)CCN1CCOCC1,ZINC56040168
-c1c(csc1C(=O)C)C[N@@H+]1CC[C@H](CC1)Cn1cc([C@@H](C)O)nn1,ZINC19595606
-c1cc(cc(c1)CNC(=O)COc1ccc(cc1)C=O)c1nc(C)[nH]n1,ZINC89999025
-c1cc(cc(c1)OCCC(=O)Nc1ccc(cc1)c1cc[nH]n1)C(=O)N,ZINC81612028
-c1cc(ccc1/C(=C/C(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2)/C)OC,ZINC89797128
-C(#N)c1ccc(cc1)[C@@H](C)NC(=O)NCc1ccc(cc1)C(=O)NCC,ZINC48851847
-C(#N)c1ccc(cc1)[C@H](C)NC(=O)NCc1ccc(cc1)C(=O)NCC,ZINC48851844
-c1cc(ccc1C(=O)NCCCc1ccc(cc1)O)n1c(C)nc(C)n1,ZINC80376254
-c1cc(ccc1c1nnco1)OCC(=O)Nc1ccc2c(c1)[nH]c(=O)[nH]2,ZINC07737697
-c1cc(cc(c1)OC)c1cc(CC(=O)Nc2ccc(cc2)C(=O)N)no1,ZINC11693194
-c1cc(cc2c1cc[nH]2)C(=O)Nc1ccc(cc1)C(=O)NCC(=O)OC,ZINC59008220
-C(#N)c1ccc(cc1)N1C(=O)CN(C(=O)c2ccc(c(c2)OC)O)CC1,ZINC77439837
-C(#N)c1ccc(cc1)SCC(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2,ZINC89797976
-C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1cccc(c1C)O,ZINC92046741
-C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1cc(ccc1O)C,ZINC92035808
-C(#N)CCCOc1cccc(c1)NC(=O)c1ccc(c(c1)NC(=O)C)C,ZINC55570412
-c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(c(c1)C)[N+](=O)[O-],ZINC20140950
-c1cc(ccc1C(=O)N)NC(=O)Cn1c(=O)c2cc(ccc2nc1C)O,ZINC72402082
-c1cc(cc(c1)[N+](=O)[O-])/C=C/C(=O)N1CC[C@H](c2ccc(cc2)O)CC1,ZINC73394899
-C(#N)COc1ccc(cc1)/C=C/C(=O)N[C@H](c1cccc(c1)OC)CO,ZINC92626125
-C(#N)c1ccc(cc1)CN(C(=O)Nc1cc(ccc1OC)C(=O)NC)C,ZINC57701619
-c1ccc(c(c1)[C@H](CNCc1ccc(cc1)OCc1ccncc1)O)F,ZINC79924850
-C(#N)CSc1cccc(c1)C(=O)Oc1cccc(c1)C(=O)NC1CC1,ZINC79413246
-c1cc(ccc1c1ccc(cc1)Nc1nc(cs1)C(=O)NC)C(=O)N,ZINC27914127
-c1cc(cc(c1)C[NH2+]Cc1ccc(cc1)OCC(=O)N)c1nc(C)[nH]n1,ZINC89796252
-c1cc(cc(c1)OC)/C=C/C(=O)N1CCN(CC1)Cc1cccc(c1)O,ZINC86247077
-c1cc(cc(c1)OCc1coc(c2ccc(cc2)[N+](=O)[O-])n1)CC(=O)N,ZINC89737217
-c1cc(ccc1c1nc(C(=O)NC)on1)COc1ccc2c(c1)OCO2,ZINC32094141
-c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(c(c1)OC)OC,ZINC20143233
-C(#N)c1ccc(cc1F)OCc1csc(c2ccc(cc2)C(=O)N)n1,ZINC66750305
-C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1cc(c[nH]1)C(=O)N,ZINC92045919
-c1cc(ccc1CCNC(=O)[C@@H](C)Oc1ccc(cc1)n1cnnn1)O,ZINC27976105
-c1cc(ccc1c1ccc(C(=O)NCc2cc3C[NH2+]CCn3n2)o1)OC,ZINC82092326
-C(#N)Cc1ccc(cc1)OCCNc1cccc(c1C)C(=O)NCCO,ZINC81182408
-c1cc(ccc1C(=O)N)C(=O)NCc1ccc(cc1)CN1CCOCC1,ZINC29716311
-c1cc(ccc1C(=O)N)C[N@@H+]1CC[C@H](C(=O)c2ccc(cc2)OC)CC1,ZINC14327441
-c1cc(ccc1C(=O)N)CN1CC[NH+](CC1)Cc1ccc(cc1)C(=O)N,ZINC27343080
-c1cc(ccc1C(=O)N)NC(=O)[C@H](C)Oc1ccc(cc1)CCC(=O)C,ZINC03328034
-c1cc(cc(c1)OCCCC(=O)Nc1ccc(c(c1)C(=O)N)C)C(=O)C,ZINC66441011
-c1cc(cc(c1)O)C(=O)N1CCN(C(=O)Cc2ccc(c(c2)O)C)CC1,ZINC89439110
-c1cc(ccc1C(=O)OC)NC(=O)N1CCC(c2ccc(cc2)O)CC1,ZINC48007191
-c1cc(ccc1C(=O)NCC(=O)N1Cc2cc(ccc2CC1)O)OCC,ZINC52865789
-c1cc(cc(c1)NCC(=O)Nc1cccc(c1C)NC(=O)CC)C(=O)N,ZINC66095198
-c1cnc(nc1N1CCC(c2nnc(Cn3cncn3)n2CC)CC1)N,ZINC91829853
-c1cc(ccc1C[NH2+]CCOc1ccc2c(c1)CCC(=O)N2)NC(=O)C,ZINC75808880
-C1=C(N=C([NH+]=C1)N1CC[C@@H](c2nnc(Cn3ccnc3)n2CC)CC1)N,ZINC91690713
-c1cc(cc2c1CCN(C(=O)NCCc1ccc(cc1)OC(C)C)C2)O,ZINC45927015
-c1cc(c(cc1CC(=O)N[C@H](c1ccc(cc1)N1CCOCC1)C)O)C,ZINC89438157
-c1cc(ccc1C(=O)NC)C[N@H+](C)Cc1ccc(cc1)N1CCOCC1,ZINC66951466
-c1cc(ccc1n1cc(cn1)C(=O)Nc1c(cn(C)n1)C(=O)N)[N+](=O)[O-],ZINC93281296
-c1cc(ccc1C(=O)N)NC(=O)C1CCN(c2ccc(=O)n(C)n2)CC1,ZINC85470913
-c1cc(c(cc1/C=C/C(=O)N1CC[C@H](c2ccc(cc2)O)CC1)F)OC,ZINC78472462
-C(#N)c1cccc(c1)NC(=O)C[S@@](=O)Cc1ccc(cc1)C(=O)NC,ZINC66950064
-c1cc(cc(c1)OCC[NH2+][C@H](c1ccc2c(c1)[nH]c(=O)[nH]2)C)NC(=O)C,ZINC91372678
-c1cc(cc(c1)NC(=O)CCC1CCN(C(=O)C)CC1)c1nc(C)[nH]n1,ZINC79657430
-c1cc(ccc1CN1C[C@@H](C)O[C@H](C1)C)CNc1cncc(C(=O)N)n1,ZINC80770919
-c1cc(cc(c1)NC(=O)N1CCN(c2ccc(cc2)O)CC1)C[NH+](C)C,ZINC44292982
-C(#N)[C@H](C)Oc1ccc(cc1)C[N@H+]1CC[C@H](c2ccnn2CCO)CC1,ZINC92811182
-c1cc(c(c(c1)NC(=O)NCc1ccc(cc1)C[NH+](C)C)C)NC(=O)C,ZINC76102818
-c1cc(cc(c1)O)c1ncc(cn1)NC(=O)c1cc(c(C)s1)[N+](=O)[O-],ZINC57884432
-c1cc(cc(c1)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])NC(=O)C,ZINC20896906
-c1cc(c(cc1N1CCC(CC1)Oc1ccnc(c1)C(=O)N)C)[N+](=O)[O-],ZINC92946105
-c1cc(c(cc1CC(=O)N1CC[C@H](C1)Nc1ccc(cn1)[N+](=O)[O-])O)C,ZINC89452546
-C(#N)CCn1cc(c2ccccc12)/C=C/C(=O)Oc1ccc2cn[nH]c2c1,ZINC86023227
-c1cc(cc2c1CCN(C(=O)NCCc1ccc(c(c1)OC)OC)C2)O,ZINC43001206
-C(#N)c1ccc(cc1)CN(C(=O)Nc1cc(ccc1Cl)C(=O)NC)C,ZINC48502506
-C(#N)c1ccc(cc1Cl)N1CCC(CC1)Oc1ccnc(c1)C(=O)N,ZINC92946254
-c1cc(c(c(c1)[N+](=O)[O-])C)C(=O)OCC(=O)Nc1ccc(cc1)C(=O)N,ZINC03235725
-c1cc(cc2c1cc[nH]2)NC(=O)Cc1nc(C(=O)NCCCOC)on1,ZINC36352721
-c1cc(c(cc1CC[NH2+][C@H]1C(=O)N(c2ccc(cc2)OC)C(=O)C1)O)O,ZINC03901170
-c1cc(cc(c1)CNC(=O)CCC(=O)N1CCOCC1)c1nc(C)[nH]n1,ZINC89999031
-c1cc(cc(c1)C[C@@H]1CC[N@H+](CC1)Cc1cn(CCO)nc1C)C(=O)[O-],ZINC72162704
-c1cc(ccc1C1=C[SH+]N=N1)C[N@H+]1CC[C@@H](CC1)n1cc(C[NH3+])nn1,ZINC23369222
-c1cc(cc(c1C(=O)N)F)NC(=O)Nc1ccc2c(c1)nc(COC)o2,ZINC79802379
-C(#N)c1cc(c(c(c1)F)N1CCC(CC1)Oc1ccnc(c1)C(=O)N)F,ZINC92945855
-c1cc(ccc1N1C(=O)[C@H](CC(=O)Nc2ccc(cc2)O)SC1=O)O,ZINC16926167
-c1ccc2c(c1)c(c[nH]2)CC(=O)N/N=C(/c1ccc(cc1)n1cncn1)\C,ZINC20818150
-c1cc(ccc1C(=O)NC)CNC(=O)CCCc1ccc(c(c1)F)OC,ZINC84523848
-C(#N)c1ccc(cc1)NCC(=O)Nc1ccc(c(c1)S(=O)(=O)NC)C,ZINC78503856
-c1cc(cc(c1)NC(=O)NCCNc1ccc(cc1)[N+](=O)[O-])C[NH+](C)C,ZINC44276690
-C(#N)c1ccc(cc1)OC[C@H](CSc1nc(c2ccsc2n1)N)O,ZINC58453160
-c1cc(ccc1[C@H]1CC[N@@H+](CC1)C[C@@H](COc1ccc(cc1)OC)O)O,ZINC14246322
-C(#N)c1ccc(cc1)N1C(=O)[C@H](CC1)OC(=O)Cc1c[nH]c2ccccc12,ZINC84590543
-C(#N)CCn1cc(c2ccccc12)/C=C/C(=O)Oc1cccc(c1)C(=O)N,ZINC51829376
-c1ccc2c(c1)c(c[nH]2)CC(=O)N1CC(c2nc(c3ccncc3)no2)C1,ZINC49481700
-c1cc(c(cc1C(=O)CCC(=O)NCCCc1ccc(cc1)O)F)OC,ZINC81774514
-c1cc(ccc1CNC(=O)CCCc1ccc(c(c1)F)OC)NC(=O)N,ZINC84579976
-c1cc(ccc1CCNC(=O)CNc1ccc(c(c1)NC(=O)C)F)OC,ZINC43567763
-c1cc(ccc1N1C[C@@H](C)O[C@H](C1)C)NC(=O)Nc1cnn(c1)CCO,ZINC69299922
-c1c(c(cc2c1OCO2)C[N@@H+]1CC[C@H](CC1)Cn1cc([C@H](C)O)nn1)C,ZINC20866346
-c1c(ncnc1NC1CC1)N1CCC(CC1)CCC(=O)N1CCOCC1,ZINC65274164
-c1ccc2c(c1)c1cc(ccc1n2CCO)/N=N/c1ccc(cc1)[N+](=O)[O-],ZINC04521034
-c1cc(cnc1)CCC(=O)Nc1ccc(cc1)n1c2c(cn1)c(=O)[nH]cn2,ZINC29674617
-c1cc(cc(c1)CSCCCOc1ccc(cc1)[N+](=O)[O-])C(=O)NC,ZINC72998568
-c1cc(ccc1N1C(=O)CN(C(=O)CCc2csc(n2)N)CC1)OC,ZINC77523911
-c1cc(cc(c1)C[NH+]1CCN(CC1)Cc1cccc(c1)O)c1cccnc1,ZINC92789549
-c1cc(cc(c1)[N+](=O)[O-])[C@H](CC)NC(=O)NCc1ccc(c(c1)CO)F,ZINC90619880
-c1cc(ccc1c1nnco1)OCCOc1ccc(cc1)S(=O)(=O)N,ZINC31705414
-C(#N)COc1ccc(cc1)NC(=O)c1cc(ccc1OC)S(=O)(=O)N,ZINC18828701
-c1cc(ccc1C(=O)C)Oc1ccc(cc1)C(=O)Nc1ccc(c(c1)O)C,ZINC90064626
-c1cc(cc(c1)COc1ccc(C)nc1)C(=O)Nc1ccc(cc1)C(=O)N,ZINC74395466
-C(#N)COc1ccc(cc1)/C=C/C(=O)Nc1cccc(c1)NC(=O)C1CC1,ZINC45631078
-c1cc(cc(c1)O)C[N@H+]1CC[C@H](CC1)NC(=O)CC[C@@H]1C(=O)NC(=O)N1,ZINC91440412
-c1cc2c(c(c1)O)CC[C@H]2NC(=O)[C@H](c1ccc2cc(ccc2c1)OC)C,ZINC76688579
-c1cc(cc(c1)CO)CNC(=O)N[C@@H](c1ccc(cc1)c1ccncc1)C,ZINC74876519
-c1ccc(cc1)[C@H](CNC(=O)/C=C/c1ccc(cc1)n1ccnc1)[NH+](C)C,ZINC72595859
-c1cc(cnc1)CN1CC[NH+](CC1)CCc1ccc(cc1)S(=O)(=O)N,ZINC91076965
-c1c(ncnc1NCCC)N1CCC(CC1)CCC(=O)N1CCOCC1,ZINC65274099
-c1cc(cc(c1)NC(=O)COc1ccc2c(c1)CCC(=O)N2)c1cn[nH]c1,ZINC90498229
-C(#N)c1ccc(cc1)n1c(cc(c1C)C(=O)NCc1ccc(C(=O)N)o1)C,ZINC82975947
-c1cc(cnc1)c1cn(C2CCN(c3c4c(nc(n3)N)[nH]cn4)CC2)nn1,ZINC67694795
-c1cc2c(c(c1)O)CC[C@H]2NC(=O)/C=C/c1ccc(cc1)N1C(=O)CCC1,ZINC74142249
-C(#N)[C@@H](C)Oc1ccc(cc1)/C=C/C(=O)c1ccc(cc1)CCNC(=O)C,ZINC92209857
-C(#N)Cc1cccc(c1)C(=O)N1CCN(CC1)Cc1ccc(cc1)C(=O)N,ZINC53394563
-c1cc(cc(c1)S(=O)(=O)N)[C@H](C)NC(=O)CCCc1ccc(cc1)O,ZINC75109323
-c1c(csc1C[N@@H+]1CC[C@H](CC1)CNC(=O)c1cnn(c1)C)C(=O)N,ZINC92759677
-c1cc(cc(c1c1ccc(CO)o1)Cl)NC(=O)c1ccc([N+](=O)[O-])o1,ZINC20139762
-c1cc(ccc1C[N@@H+]1CC[C@H](CC1)CNc1cc(nc(n1)N)Cl)OC,ZINC63282511
-c1ccc(c(c1)c1nc(/C=C/c2ccc(cc2)OCC(=O)[O-])nc(n1)N)O,ZINC08515879
-c1cc2c(c(c1)O)CC[C@@H]2NC(=O)c1cc(C)n(c2ccc(cc2)OC)n1,ZINC92458472
-C(#N)c1ccc(cc1)CNC(=O)N1CCC(C(=O)c2ccc(cc2)O)CC1,ZINC46042691
-C(#N)CCCOc1cccc(c1)NC(=O)Cc1c[nH]c2ccc(cc12)OC,ZINC77702360
-c1cnc(cc1O[C@@H]1CC[N@H+](CC1)Cc1cc([N+](=O)[O-])sc1)C(=O)N,ZINC93261459
-c1cc(ccc1[C@@H](C)NC(=O)Nc1ccc(c(c1)C(=O)N)C)n1ccnc1,ZINC67314016
-c1cc(ccc1C(=O)NCc1ccc(cc1)Cn1cncn1)CNC(=O)C,ZINC78358096
-c1cc(cc(c1)CNC(=O)N[C@H](c1ccc(cc1)n1ccnc1)C)C(=O)N,ZINC29328886
-c1cc(ccc1C(=O)N1CCN(c2ccc(nn2)n2ccnc2)CC1)NC,ZINC70974877
-c1cc(ccc1CCNc1cc(ncn1)N1CCOCC1)S(=O)(=O)N,ZINC65526115
-c1cc(cc(c1)OCCN1CCOCC1)CNc1cc(nc(n1)N)Cl,ZINC60102973
-c1cc(ccc1C(=O)NNC(=O)CSc1nc(cc(=O)[nH]1)N)[N+](=O)[O-],ZINC34705305
-c1cc2c(c(c1)O)CC[C@H]2NC(=O)c1ccn(c2cccc(c2)[N+](=O)[O-])n1,ZINC76687566
-c1cc(ccc1/C=C/C(=O)Nc1ccc(c(c1)NC(=O)C)F)n1ccnc1,ZINC73767794
-c1cc(cc(c1)CNC(=O)[C@H](C)Oc1cccc(c1)C=O)c1nc(C)[nH]n1,ZINC89998249
-C(#N)c1ccc(cc1)[C@H](C)NC(=O)N[C@H](c1ccc2c(c1)NC(=O)CO2)C,ZINC77840070
-C(#N)c1ccc(cc1)N1C(=O)[C@H](CC1)Nc1cccc(c1)C(=O)NCCO,ZINC81159194
-C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1ccc(cc1)C(=O)N,ZINC92615033
-c1cc(cc(c1)CNC(=O)Nc1ccc(c(c1)C(=O)N)C)Cn1cncn1,ZINC67310877
-c1cc(cc(c1)NC(=O)N[C@H](c1ccc(cc1)n1cncn1)C)NC(=O)C,ZINC76075104
-c1cc2c(cc1C(=O)N1CCN(CC1)CCc1ccc(cc1)OC)nc[nH]2,ZINC63700298
-C(#N)c1ccc(cc1)CNC(=O)NCc1ccc(cc1)C(=O)NCCCC,ZINC61921995
-c1cc(cnc1)CSc1ccc(cc1)C(=O)N(C)Cc1ccc(cc1)O,ZINC52963789
-c1ccc2c(c1)c(c[nH]2)C[C@@H](CO)NC(=O)/C=C/c1ccc(cc1)[N+](=O)[O-],ZINC92190098
-c1cc(cc(c1)NC(=O)C)[C@@H](C)OC(=O)Cc1ccc(cc1)n1cnnn1,ZINC57747114
-c1cc(cc2c1[nH]nc2C(=O)N)NC(=O)C1CCN(c2cnccn2)CC1,ZINC89798998
-c1cc(cc(c1)O[C@H](C)CC)C(=O)Nc1ccc(cc1)c1ccc(CO)o1,ZINC20142229
-c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(cc1)OCCCC,ZINC20141804
-c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(cc1)O[C@H](C)CC,ZINC20141981
-C(#N)COc1cccc(c1)CC(=O)Nc1ccc(cc1)C(=O)N[C@@H](C)CC,ZINC89758920
-c1cc2c(cc1C(=O)N1CCN(CC1)CCc1ccc(cc1)OC)nn[nH]2,ZINC58215579
-C(#N)c1ccc(cc1)CSCC(=O)N1c2ccccc2[C@@H](C(=O)N)CC1,ZINC89449967
-C(#N)c1ccc(cc1)SCCC(=O)N1c2ccccc2[C@H](C(=O)N)CC1,ZINC89465538
-c1cc(c(c(c1)[N+](=O)[O-])C)C(=O)Nc1ccc(c(c1)C)c1ccc(CO)o1,ZINC20141034
-c1cc(cc(c1)O)/C=N/NC(=O)[C@@H]1C=C(c2ccc(c(c2)OC)OC)N=N1,ZINC39015673
-c1ccc2c(c1)c(CC(=O)NCC(=O)Nc1ccc(cc1)OC)n[nH]c2=O,ZINC13570754
-c1cc2c(c(c1)O)CC[C@H]2NC(=O)N1CCN(C(=O)c2ccncc2)CC1,ZINC91859078
-c1cc(ccc1[C@H](C)NC(=O)NCc1ccc(c(c1)O)OC)n1ccnc1,ZINC43158202
-c1cc(ccc1C(=O)NC)CN(C(=O)Nc1ccc2c(c1)CCC(=O)N2)C,ZINC76103168
-c1cc(ccc1CCC(=O)N1CCN(c2c3c(ncn2)[nH]cn3)CC1)OC,ZINC58194205
-c1cc(ccc1CCNC(=O)C1CCN(c2c3c(ncn2)nc[nH]3)CC1)O,ZINC09059784
-C(#N)c1ccc(cc1)CSCC(=O)Oc1cccc(c1)NC(=O)C1CC1,ZINC46126627
-c1cc(cc(c1)C[N@H+](C)CC)CNC(=O)Nc1ccc2c(c1)ccc(=O)o2,ZINC65819825
-c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)c1ccc(cc1)CSc1ncn[nH]1)O,ZINC81706850
-c1cc(cc(c1)CO)CNC(=O)N1CC=C(c2ccc(cc2)OCC)CC1,ZINC91709671
-c1cc(cc(c1)C[N@@H+]1CCC[C@H]1Cn1ccnc1)c1nc(cc(=O)[nH]1)C[NH3+],ZINC39489891
-c1cc(ccc1c1cc(CNCc2ccc(cc2)C(=O)NC)sc1)OC,ZINC80249831
-c1cc(ccc1C(=O)N1CCN(c2ccc(cc2)C(=O)C)CC1)C[NH+](C)C,ZINC68251233
-c1cc(ccc1C(=O)NC)NC(=O)NCC(C)(C)N1CCS(=O)CC1,ZINC85552082
-c1ccc2=[NH+]c3ccccc3C(=c2c1)NCCC[NH+]1CCN(CC1)CCO,ZINC61997400
-c1cc(cc(c1c1ccc(CO)o1)OC)NC(=O)c1ccc2c(c1)OCO2,ZINC20140727
-c1cc(c(c2c1c(c(c(=O)o2)CC(=O)NCc1ccc(cc1)OC)C)C)O,ZINC04089059
-c1cc(ccc1n1c(cc(c1C)C(=O)NCc1ccc(C(=O)N)o1)C)OC,ZINC82975428
-c1cc(cc(c1)NC(=O)Cc1csc(c2ccc(cc2)OC)n1)C(=O)N,ZINC09446262
-c1cc2c(cc1[C@H](C)[NH2+]CCOc1ccc3c(c1)CCC(=O)N3)[nH]c(=O)[nH]2,ZINC91308700
-C(#N)c1cc(ccc1OC)C[N@@H+]1CC[C@H](CC1)Oc1ccnc(c1)C(=O)N,ZINC93260703
-c1cc(cc(c1)C[NH+](C)C)C(=O)Nc1ccc(cc1)C[C@H]1C(=O)NC(=O)N1,ZINC91701155
-c1cc(ccc1Cc1ccncc1)NC(=O)CSc1nc(cc(=O)[nH]1)N,ZINC06548113
-c1cc(ccc1CC(=O)Nc1ccc(cc1)N1CCO[C@H](C1)C)NC(=O)C,ZINC76447216
-c1cc(ccc1C(=O)Nc1ccc(cc1)CN1CCOCC1)CNC(=O)C,ZINC78386667
-c1cc(c(cc1/C=N/NC(=O)CCCSc1nnc(N)s1)OC)O,ZINC06126970
-c1cc(c(cc1C[N@H+]1CC[C@H](c2ccnn2CCO)CC1)C)n1cncn1,ZINC92811097
-c1cc(cc(c1)O)C[N@H+]1CC[C@H](c2nnc(Cn3ccnc3)n2CC)CC1,ZINC91872287
-c1cc(cc(c1)[N+](=O)[O-])C(=O)Nc1ccc(c(c1)OC)c1ccc(CO)o1,ZINC20140872
-C(#N)c1ccc(c(c1)OC)OCC(=O)Nc1cc(cc(c1)C(=O)N)C(=O)N,ZINC09437902
-c1cc(ccc1n1cnnn1)OCC(=O)N1Cc2ncc(C(=O)N)n2CC1,ZINC67934157
-c1cc(cc2ccc(cc12)OC)[C@@H]1CN(CCO1)Cc1nc(C(=O)N)no1,ZINC71763743
-c1cc(cc(c1)O)[C@H](C)N(C(=O)NCc1ccc(c(c1)F)n1ccnc1)C,ZINC67634600
-c1cc(c2csc(n2)NC(=O)COc2ccc3c(c2)CCC(=O)N3)[nH]c1,ZINC44838537
-c1cc(ccc1C=O)OCCC(=O)Nc1ccc(c(c1)C(=O)NC(C)C)C,ZINC68448398
-c1cc(cc(c1)NC(=O)[C@@H](C)Oc1ccc(cc1)CCC(=O)C)NC(=O)C,ZINC21557366
-c1cc(ccc1C(=O)N1CCN(C(=O)Cc2ccc(cc2)OCC)CC1)O,ZINC30661085
-c1cc(cc(c1)CNC(=O)COc1cccc(c1)C=O)C(=O)N[C@@H](C)CC,ZINC77208103
-c1cc(cc(c1)C(=O)NCCC)C(=O)Nc1ccc(cc1)O[C@@H]1CCOC1,ZINC78124001
-c1cc(cc(c1)OCCC(=O)N1Cc2cc(ccc2CC1)OCC)C(=O)N,ZINC81727296
-c1cc(cc(c1)NCC(=O)Nc1cccc(c1)NC(=O)C)C(=O)NC(C)C,ZINC66083849
-c1cc(cc(c1)NCC(=O)Nc1cccc(c1)NC(=O)CC)C(=O)NCC,ZINC66092750
-c1cc(cc(c1)NCC(=O)Nc1cccc(c1)NC(=O)CCC)C(=O)NC,ZINC66093502
-c1cc(ccc1C(=O)N)NC(=O)[C@@H](C)N1CCN(c2ccc(cc2)O)CC1,ZINC24165195
-c1ccc(c(c1)C(=O)N)NCC(=O)N1CCN(c2ccc(cc2)OC)CC1,ZINC22356311
-C(#N)c1c2c(CN(C(=O)CCc3cccc(c3)C(=O)NC)CC2)sc1N,ZINC89735403
-c1cc(cc(c1)NC(=O)N1CCN(C(=O)c2cccnc2)CC1)C[NH+](C)C,ZINC79672074
-c1cc(cc(c1)CNC1=CC=CC(=[NH+]1)CN1CCN(C(=O)C)CC1)C(=O)N,ZINC89808916
-C(#N)CSc1cccc(c1)C(=O)NCc1ccc(cc1)C[NH+](CC)CC,ZINC79528560
-c1cc(c(cc1CO)NCC(=O)Nc1ccc(cc1)S(=O)(=O)C)Cl,ZINC72086195
-c1cc(ccc1CNC(=O)Cc1c(c2c(cc(cc2O)O)oc1=O)C)OC,ZINC08490563
-c1cc(c(cc1C(=O)NC)NC(=O)c1cc2cc(ccc2s1)[N+](=O)[O-])C,ZINC24922354
-c1cc(ccc1c1ccc(C(=O)Nc2nc(cs2)CC(=O)N)o1)C(=O)C,ZINC14249253
-c1cc(cc(c1)NC(=O)CNc1ccc(cc1)C(=O)OCCC)NC(=O)C,ZINC66211111
-c1cc(cc(c1)NC(=O)CNc1ccc(cc1)C(=O)OC)NC(=O)CCC,ZINC66213472
-c1cc(ccc1C(=O)C)N1CCC(CC1)OC(=O)c1cc(cn1C)C(=O)N,ZINC88810331
-c1cc(cc2c1cc(cn2)CN1CCN(c2nc(cs2)C(=O)N)CC1)O,ZINC65373328
-c1ccc(cc1)[C@@H](CO)NC(=O)Nc1ccc(cc1)CCN1CCOCC1,ZINC79595004
-C(#N)c1ccc(c(c1)Cl)OCC(=O)Nc1cccc(c1)C(=O)NC1CC1,ZINC11157952
-c1cc(cc2c1nc(NC(=O)COc1ccc(cc1)[N+](=O)[O-])o2)NC(=O)C,ZINC06304988
-c1cc(ccc1CCNC(=O)[C@@H]1CCCN(c2ccc(cn2)[N+](=O)[O-])C1)O,ZINC20648841
-c1cc(cc(c1C)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])NC(=O)C,ZINC58146545
-c1cc(ccc1C1=CCN(C(=O)NCc2ccc(c(c2)F)O)CC1)OCC,ZINC92283633
-C(#N)CCCOc1cccc(c1)CN1CCOC[C@@H]1C[C@@H](c1ccco1)O,ZINC92040238
-c1ccc(c(c1)CN(C(=O)Nc1ccc(cc1)OCC1CCOCC1)C)O,ZINC77529272
-c1cc(ccc1C(=O)NC(C)(C)C)NC(=O)C[NH2+]Cc1ccc(cc1)OC,ZINC66092551
-c1cc(ccc1CCC(=O)N1CCC[C@@H](c2nnc3C[NH2+]CCn23)C1)OC,ZINC19711026
-C(#N)c1ccc(cc1)SCC(=O)Nc1cnn(c1)CC[NH+]1CCCCC1,ZINC93083787
-c1cc(ccc1c1ccc(CNc2ccc(c(c2)C(=O)[O-])Cl)o1)[C@@H](C)O,ZINC20879123
-c1cc(ccc1c1ccc(/C=N/c2ccc(cc2)S(=O)(=O)N)o1)[N+](=O)[O-],ZINC28467682
-c1cc(ccc1C(=O)N)n1c(nnn1)SCC(=O)c1ccc(c(c1)O)O,ZINC02413037
-c1cc(ccc1/C=C/C(=O)Nc1ccc2c(c1)[nH]c(=O)[nH]2)[N-]S(=O)(=O)C,ZINC12605641
-c1cc(ccc1C1CCN(C(=O)Nc2cc(ccc2F)NC(=O)C)CC1)O,ZINC44076353
-c1ccc2c(c1)c(c[nH]2)CCC(=O)N1CCN(C(=O)NCCC(=O)[O-])CC1,ZINC13692209
-c1cc(cc(c1)CC[NH2+][C@H](C)CC(=O)Nc1ccc(cc1)[N+](=O)[O-])C(=O)N,ZINC89545432
-c1cc(cc(c1)OCC(=O)N1CCC(c2ccnn2CCO)CC1)C(=O)C,ZINC89543594
-c1cnc(cc1OC1CCN(C(=O)Cc2c(C)nn(c2C)C)CC1)C(=O)N,ZINC89360386
-c1cc(ccc1CCC(=O)N1CCN(CC1)Cc1nc(nc(n1)N)N)OC,ZINC58178478
-c1cc(ccc1C[C@@H](C(=O)N1CC[C@H](CC1)Oc1ccc(cc1)OC)[NH3+])O,ZINC72454682
-c1c(cc(c(c1C)O)C)C[N@H+]1CC[C@H](c2nc([C@H]3CCC(=O)N3)on2)CC1,ZINC12337306
-c1cc(ccc1NC(=O)N1CCN(C2=CC(=[NH+]C(=N2)NCC)C)CC1)OC,ZINC64800336
-c1cc(cc(c1)NC(=O)N1CC[NH+](CC1)C[C@@H]1CCOC1)c1nc(C)[nH]n1,ZINC78549938
-c1cc(cc(c1/C=N/NC(=O)CCC(=O)Nc1ccc(cc1)[N+](=O)[O-])O)O,ZINC06221693
-c1ccc2c(c1)c(c[nH]2)/C=N/N=C/1\NC(=O)[C@@H](CC(=O)NCC(=O)[O-])S1,ZINC02668749
-c1cc(cc(c1)O)C(=O)NN1C(=O)/C(=C/c2ccc(cc2)O)/SC1=S,ZINC01017748
-c1cc(cc(c1)OC)N1CC[C@@H](C1)CNC(=O)NCc1ccc(C(=O)N)o1,ZINC83208578
-c1cc(cc(c1)OC)N1CC[C@H](C1)CNC(=O)NCc1ccc(C(=O)N)o1,ZINC83208583
-c1cc(cc(c1)OCCC(=O)N1CCN(CC1)Cc1cc(C)no1)C(=O)N,ZINC81585396
-c1cc(ccc1C(=O)NCCC)NC(=O)CCCc1ccc(c(c1)F)OC,ZINC84530457
-c1cc(cc(c1)NC(=S)NC(=O)/C=C/c1ccc(c(c1)OC)OC)CO,ZINC12500659
-c1cc(ccc1C[C@@H]1C(=O)NC(=O)S1)OCCc1ccc(cn1)[C@H](C)O,ZINC06713959
-c1nc2c(c(n1)NCC[C@@H]1CN(c3cc(=O)n(C)nc3)CCO1)CC[NH2+]C2,ZINC67842668
-c1cc(ccc1[C@H]1C[C@H](C)[N@H+](C1)CCC(=O)Nc1cc(ccc1F)N)OC,ZINC83201923
-c1cc(cnc1)[C@@H](C)N1CC[N@H+](CC1)CCC(=O)Nc1cc(ccc1F)N,ZINC83174232
-c1cc([C@@H](CNC(=O)c2ccc(cc2)CSc2ncn[nH]2)[NH+](C)C)oc1,ZINC49943981
-c1cc(cc2c1cc[nH]2)C(=O)N1C[C@H]([C@H](C1)CO)C[N@@H+]1CC[C@H](CC1)CO,ZINC91645738
-c1cc(cc(c1)N1C(=O)c2ccc(cc2C1=O)Oc1ccc(cc1)N)C(=O)[O-],ZINC01435573
-c1cc(cc(c1)[N+](=O)[O-])/C=C/C(=O)Nc1nc(cs1)C[NH+]1CCCCC1,ZINC69533969
-c1cc(ccc1C(=O)N)C[N@@H+]1CC[C@H](C(=O)N2CC[C@H](C(=O)N)CC2)CC1,ZINC77667760
-c1cc(cc(c1)OC)NC(=O)N1CCC(CC1)Cn1cc(C(C)(C)[NH3+])nn1,ZINC23379660
-c1cc(cc2c1ccn2CC[NH+](C)C)NC(=O)CCSc1nc(C)n[nH]1,ZINC73880213
-c1cc(cc(c1)O)N1C(=O)c2ccc(cc2C1=O)Oc1ccc(cc1)C(=O)[O-],ZINC59505661
-c1cc(cc2c1OCO2)OCc1nc(co1)C(=O)NCc1csc(n1)N,ZINC67489669
-c1cc(cc(c1)O)c1ncc(cn1)NC(=O)c1cccc(c1)N1C(=O)CCC1,ZINC57883042
-C(#N)COc1cccc(c1)NC(=O)NCCc1ccc(cc1)S(=O)(=O)N,ZINC48514422
-c1cc(cc2c1cc[nH]2)NC(=O)C[C@H](C(=O)[O-])C[NH+]1CCN(CC1)CCO,ZINC72406508
-c1cc(ccc1c1cc(ccn1)[C@H]1CCN(C1)Cc1ccc(c(c1)C)O)CO,ZINC65499153
-c1cc(ccc1c1cc(ccn1)[C@@H]1CCN(C1)Cc1ccc(c(c1)C)O)CO,ZINC65499156
-c1cc(ccc1CC[C@H]1CCCC[N@@H+]1Cc1ccc(cc1)S(=O)(=O)C)O,ZINC72135543
-c1cc(ccc1CC[C@@H]1CCCC[N@H+]1Cc1ccc(cc1)S(=O)(=O)C)O,ZINC72135544
-c1cc(c(cc1CCC(=O)NNC(=O)Nc1ccc(c(c1)OC)OC)O)O,ZINC01117472
-C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1c2cc(ccc2[nH]n1)C,ZINC92035606
-c1ccc2c(c1)c(c[nH]2)CCC(=O)N1CCN(c2ccc(cc2)C(=O)C)CC1,ZINC06976068
-C(#N)c1ccc(cc1)/C=C/CNc1cccc(c1)C[N@@H+]1CC[C@H](C(=O)N)CC1,ZINC89785458
-c1cc(cc(c1)NC(C)C)CNC(=O)N1CCC(CC1)OC1CCOCC1,ZINC88615216
-c1cc(cc(c1)NC(C)C)CNC(=O)N[C@@H]1CC[N@@H+](CC1)C[C@@H]1CCOC1,ZINC88576020
-c1cc(ccc1c1nc(Cc2coc(c3ccc(cc3)OC)n2)no1)C(=O)N,ZINC78773944
-c1cc(cc(c1NC(=O)N1CCN(C(=O)c2c(non2)N)CC1)OC)OC,ZINC33014555
-c1cc2c(cc1NC(=O)NC(=O)CSc1nc(cc(n1)N)N)OCCO2,ZINC03510247
-c1cc2c(cc[nH]2)c(c1)NC(=O)CCc1c(c2ccc(cc2oc1=O)OC)C,ZINC58175605
-c1cc(c(cc1[C@H](C)Nc1c2c(ncn1)[nH]cn2)OC)OCc1ccncc1,ZINC52433545
-c1cc(ccc1C(=O)CCC(=O)Nc1ccc(cc1)S(=O)(=O)N)OCC,ZINC07060070
-c1cc(cc2c1[C@H]1CC[C@@]3(/C(=N/N=C/c4cnn(c4)C)/CC[C@H]3[C@H]1CC2)C)O,ZINC06525863
-c1cc(c(cc1c1nc(c2cn(cn2)Cc2ccc(cc2)N)on1)OC)OC,ZINC21729855
-c1cc2c(cc1[N+](=O)[O-])nc(NC(=O)CSc1nc(cc(n1)N)N)s2,ZINC59941832
-c1cc(cc(c1N1C[C@H](C)O[C@H](C1)C)F)NC(=O)Nc1cnn(c1)CCO,ZINC58184705
-c1cc(c(c(c1)O)C)C(=O)N1CCO[C@H](c2ccc3cc(ccc3c2)OC)C1,ZINC71777306
-C(#N)COc1ccc(cc1CC=C)/C=N/NC(=O)CC[C@H](c1ccccc1)O,ZINC83325534
-c1cc(ccc1C(=O)N1CCCC[C@H]1CCc1ccc(cc1)O)n1cnnn1,ZINC55414780
-C(#N)c1ccc(cc1)CNC(=O)NCc1ccc(cc1)C[N@H+]1CCCC[C@@H]1C,ZINC48809118
-C1=C([C@H]2CCCCO2)[SH+]C(=C1)C[N@@H+]1CC[C@H](CC1)Cn1cc(C[NH3+])nn1,ZINC23430873
-c1ccc2c(c1)c(c[nH]2)CCC(=O)N1CCN(c2cccc(c2)[N+](=O)[O-])CC1,ZINC48306016
-c1cc(cc(c1)OC)c1cc(C(=O)N2CCN(c3cccc(c3)O)CC2)[nH]n1,ZINC92002398
-c1cc(ccc1Cn1cc(C(=O)Nc2ccc(cc2)OCC)nc1)NC(=O)C,ZINC49421961
-c1cc(ccc1c1ccc(c(C)n1)C(=O)N)CNC(=O)Cc1c(C)noc1C,ZINC19700547
-c1cc(cc(c1)O)/C(=N/NC(=O)[C@H]1C=C(c2ccc(cc2)OCCC)N=N1)/C,ZINC38906289
-c1cc(c(cc1C(=O)N)NC(=O)N(C)[C@H](c1ccc(cc1)n1cncn1)C)C,ZINC69604825
-c1cc(c(cc1C(=O)N)NC(=O)N(C)[C@@H](c1ccc(cc1)n1cncn1)C)C,ZINC58450588
-c1cc(cc(c1)NC(=O)C1CCN(c2ccc(=O)n(C)n2)CC1)c1ccn[nH]1,ZINC90592558
-c1ccc2c(c1)c(nc(CN1CC[NH+](CC1)CCc1ccc(cc1)OC)n2)N,ZINC25026714
-C1=C[NH+]=C(C2CCN(C(=O)CN3CC(=O)NCC3)CC2)N1CCC[NH+](C)C,ZINC95354049
-c1cc(c(cc1[N+](=O)[O-])C(=O)OCC(=O)Nc1c(ccs1)C(=O)N)OC,ZINC19284790
-c1ccc(c(c1)CCC(=O)N/N=C/c1ccc(c2ccc(cc2)[N+](=O)[O-])o1)O,ZINC00711502
-c1ccc2c(c1)c(cc(=O)[nH]2)C(=O)OCC(=O)Nc1ccc(cc1)NC(=O)C,ZINC15481635
-c1cc(ccc1C(=O)Nc1ccc(c(c1)NC(=O)C)F)OCc1ccncc1,ZINC24459453
-c1cc(ccc1CCNC(=O)COC(=O)c1cc[n+](cc1)[O-])S(=O)(=O)N,ZINC05961572
-c1cc(ccc1CNC(=O)[C@H](C)Oc1ccc(cc1)[N+](=O)[O-])S(=O)(=O)N,ZINC66200915
-c1cc(cc(c1)NC(=O)[C@H]1CC(=O)N(c2cccc(c2)NC(=O)C)C1)C(=O)C,ZINC21657373
-C(#N)c1ccc(c(c1)OCC)OCC(=O)Nc1cccc(c1)C(=O)NC1CC1,ZINC10637656
-c1cc(c(cc1[C@@H](C)NC(=O)c1c(nccn1)N)OC)OCc1ccncc1,ZINC47673711
-c1cc(ccc1C(=O)NCC)CNC(=O)Nc1ccc(c(c1)C)n1cnnn1,ZINC58546522
-c1cc(cc(c1)O)/C=C\1/C(=O)N(C(=S)S1)CCC(=O)NCCC(=O)[O-],ZINC15038409
-c1cc(ccc1C1=CCN(C(=O)Nc2ccc(c(c2)C(=O)N)C)CC1)OCC,ZINC92033230
-c1cc(ccc1/C=N/NC(=O)CCCSc1nnc(N)s1)C(=O)OC,ZINC20805906
-C1=C(N=C([NH+]=C1C)N)N1CCN(CC1)C[C@@]1(C(=O)N(CCC1)CCOC)O,ZINC67514114
-c1cc(ccc1C(=O)N)NC(=O)C[N@H+]1C[C@@H](c2nc(c3cnccn3)no2)C1,ZINC49485806
-c1cc(cc(c1)NC(=O)CCc1c(c2ccc(cc2oc1=O)O)C)NC(=O)C,ZINC12893757
-c1cc(ccc1c1nc(co1)COC(=O)c1ccc(cc1)CNC(=O)C)OC,ZINC32906961
-c1ccc2c(c1)c(c(C(=O)N)o2)NC(=O)COc1ccc(cc1)CCC(=O)C,ZINC62866005
-c1cc(cc(c1)NC(=O)COc1ccc2c(c1)oc(=O)cc2C)C(=O)NCC,ZINC14223581
-c1cc(ccc1C(=O)NCC(=O)Nc1ccc(cc1)C(=O)N)N1C(=O)CCC1,ZINC22688958
-c1cc(cc(c1)OCc1nnnn1CC)C(=O)Nc1ccc(cc1)C(=O)NC,ZINC40771458
-c1cc(ccc1C1=CCN(C(=O)COc2ccc(cc2)C(=O)N)CC1)OCC,ZINC91925946
-c1ccc2c(c1)c(nc(CN1CCN(C(=O)CCCn3ccnn3)CC1)n2)N,ZINC93918018
-c1cc(cc(c1)O)C(=O)N1CCN(CC1)Cc1cnc(c2cccnc2)s1,ZINC92937621
-c1cc(cc(c1)CO)C[C@H]1CC[N@H+](C1)C1CCN(C(=O)c2ccncc2)CC1,ZINC91643962
-c1cc(c(cc1CN[C@@H]1CC[N@@H+](CC1)CCN1CCOCC1)F)C[NH+](C)C,ZINC90919868
-c1cc(cc(c1n1cncn1)C(F)(F)F)NC(=O)Nc1cnn(c1)CCO,ZINC69301166
-c1cc(cc(c1c1ccc(CO)o1)OC)NC(=O)c1ccc2c(c1)OCCO2,ZINC20140782
-c1cc(ccc1/C=C\1/C(=O)N(C(=O)N1)CC(=O)Nc1ccc(cc1)OCC)O,ZINC15051927
-C(#CCOc1cccc(c1)NC(=O)C)CNC(=O)c1cccc(c1C)[N+](=O)[O-],ZINC90732024
-c1cc2cnccc2c(c1)OCc1nc(co1)C(=O)NCc1csc(n1)N,ZINC67966851
-c1cc(cc(c1c1ccc(CO)o1)OC)NC(=O)c1ccc(cc1)OC(C)C,ZINC20141872
-c1cc(cc(c1)O)C(=O)N1CC[NH+](CC1)[C@@H]1CC[C@H](c2ccc(cc2)O)CC1,ZINC92937641
-c1cc(cc(c1)NC(=O)c1ccncc1)CNc1c(cc(cn1)C(=O)N)Cl,ZINC54836958
-c1cc(cc(c1)C[S@](=O)CC(=O)Nc1ccc(cc1)OC(F)F)C(=O)N,ZINC64827505
-c1cc(cc(c1)O)[N-]C1=NC(=O)/C(=C/c2ccc(cc2)OCCC(=O)[O-])/S1,ZINC16908041
-c1cc(ccc1C(=O)NCC)NC(=O)CCC(=O)c1ccc(cc1)OCCC,ZINC47276154
-c1cc(cc(c1)NC(=O)CCC(=O)c1ccc(cc1)OCCC)C(=O)NCC,ZINC15023354
-c1cc(ccc1C(=O)NC)CNC(=O)Nc1ccc(cc1C)N1CCOCC1,ZINC44358128
-c1cc(cc(c1)NC(=O)N1CCN(c2ccc(cc2)O)CC1)NC(=O)C(C)C,ZINC44084628
-c1cc(ccc1C(=O)N)NC(=O)C[N@@H+]1CC=C(c2cnn(c2)C(C)(C)C)CC1,ZINC65434167
-c1cc(ccc1C(=O)NC)CNC1=CC(=[NH+]C=C1)CN1CCN(C(=O)C)CC1,ZINC92828265
-c1cc(c(cc1NC(=O)COc1ccc(cc1)OC)c1ccc(CO)o1)OC,ZINC20144653
-C(#N)c1ccc(nc1)N1CCC(CC1)NC(=O)NC[C@@H](c1ccco1)[NH+](C)C,ZINC67381695
-c1cc(cc(c1)NC(=O)c1ccc(cc1)OCCCOC)CC[NH+]1CCCC1,ZINC94122660
-c1cc(ccc1c1ccc(/C=N/Nc2ccc(cc2)C(=O)[O-])o1)S(=O)(=O)N,ZINC05531100
-c1cc(ccc1[N-]C1=NC(=O)[C@H](CC(=O)NCC(=O)[O-])S1)S(=O)(=O)N,ZINC24115836
-c1cc(cc(c1)[N+](=O)[O-])C(=O)Nc1ccc(cc1)OC[C@@H](c1cccs1)O,ZINC27214400
-c1cc(ccc1c1nnco1)OCC(=O)Nc1c(c2c(CCC2)s1)C(=O)N,ZINC07989813
-c1cc(ncc1N1CC[NH+](CC1)CCCn1cnc2c1ncnc2N)[N+](=O)[O-],ZINC58003659
-c1cc(cc(c1)O)C(=O)NN1C(=O)/C(=C/c2ccc(cc2)C=O)/SC1=S,ZINC05552978
-c1cc(cc(c1)NC(=O)CNc1cc(ccc1OC)NC(=O)C)C(=O)NCC,ZINC10186083
-c1cc(cc(c1C)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])NC(=O)CC,ZINC58290142
-c1cc(cc(c1)NC(=O)CCc1ccc(cc1)S(=O)(=O)NC)c1ccn[nH]1,ZINC24885892
-c1cc(ccc1CC[C@@H](C)NC(=O)N1Cc2cc(c(cc2CC1)OC)OC)O,ZINC45606956
-C(#N)c1ccc(c(c1)F)N1CC[NH+](CC1)Cc1ccc(cc1)OCC[NH+](C)C,ZINC92596786
-c1cc(cc(c1)NC(=O)c1ccc(nc1)OCCCOC)CC[NH+]1CCCC1,ZINC94122811
-c1cc(ccc1C[C@H](C)[N@H+]1CC[C@@H](CC1)n1cc(C(=O)NC2CC2)nn1)OC,ZINC14986528
-c1cc(c(cc1C(=O)NCc1ccnc(c1)Oc1ccc(cc1)OC)Cl)O,ZINC54030840
-C(#N)c1ccc(cc1Cl)NC(=O)CNc1cccc(c1C)NC(=O)CCC,ZINC63479845
-c1cc(c(cc1CC(=O)OCC(=O)Nc1ccc2c(c1)[nH]c(=O)[nH]2)OC)OC,ZINC32838877
-c1ccc2c(c1)/C(=C\c1ccc(cc1)OCc1ccc(cc1)C(=O)OC)/C(=O)N2,ZINC03309852
-c1ccc(c(c1)c1nnc(n1N)SCCC(=O)Nc1cccc(c1)OC)O,ZINC59264028
-c1cc(c(cc1C(=O)N)NC(=O)c1ccn(c2ccc(cc2)[N+](=O)[O-])n1)Cl,ZINC78782371
-c1cc(ccc1/C=N/NC(=O)[C@H]([C@@H](C(=O)N/N=C/c1ccc(cc1)O)O)O)O,ZINC02896207
-c1cc(cc(c1)OC)N1CCN(C(=O)Nc2ccc(c(c2)C(=O)NC)F)CC1,ZINC50086295
-c1cc(cc(c1)NC(=O)N)C(=O)N1CCN(CC1)Cc1ccc(c(c1)F)OC,ZINC24332098
-c1cc(cc(c1)O)NC(=O)C[C@H]1C(=O)N(c2ccc(cc2)OCC)C(=O)S1,ZINC16924260
-c1ccc(cc1)[C@@H](Cn1cc(C(=O)Nc2ccc(cc2)S(=O)(=O)C)nn1)O,ZINC77197184
-c1cc(ccc1C(=O)NC)OCC(=O)N1CCN(CC1)Cc1c(C)noc1C,ZINC53823208
-c1ccc2c(c1)nc(c1ccc(cc1)NC(=O)NCCc1ccc(cc1)OC)[nH]2,ZINC44441379
-c1cc2c(c[nH]c2nc1)[C@H]1CC[N@@H+](CC1)Cc1ccc(cc1)Oc1cnccn1,ZINC91955542
-c1cc2c(cc1CCCC(=O)NC1CCN(C(=O)CC(C)C)CC1)[nH]c(=O)[nH]2,ZINC78610023
-c1cc(C[N@H+]2Cc3cc(CNC(=O)N(C)C)nn3CC2)sc1c1cc[nH]n1,ZINC91452012
-c1cc(c(c(c1)[N+](=O)[O-])C)C(=O)Nc1ccc(c(c1)c1ccc(CO)o1)Cl,ZINC20141026
-c1cc(cc2c1c(c[nH]2)CC(=O)NNC(=O)CNc1ccc(cc1)OC)Cl,ZINC69372156
-C(#N)c1cccc(c1)NC(=O)CN1C(=O)[C@@H](Cc2c[nH]c3ccccc23)NC1=O,ZINC03416834
-c1cc(cc(c1)OCC(=O)NCc1ccc(cc1)S(=O)(=O)N)n1cnnc1,ZINC95475460
-C(#N)c1ccc(cc1)CN1CCN(C(=O)Cc2c3ccccc3c(=O)[nH]n2)CC1,ZINC23437004
-c1cc(c(nc1)Cl)NC(=O)[C@@H](C)OC(=O)/C=C/c1ccc(cc1)C(=O)NC,ZINC31605726
-c1cc(cc(c1)OCCC[N@@H+]1Cc2c(NC1)n(c(=O)n(c2=O)C)C)NC(=O)C,ZINC04381347
-c1cc(ccc1N1C[C@H](C)O[C@H](C1)C)NC(=O)CO/N=C(\c1ccsc1)/N,ZINC64551707
-c1cc(/C(=N\OCC(=O)Nc2ccc(cc2)N2C[C@H](C)O[C@H](C2)C)/N)sc1,ZINC64551756
-c1cc(ccc1N1CCOCC1)NC(=O)Cc1nc([C@H](CCC)[NH+](C)C)on1,ZINC93888404
-c1cc(ccc1CNC(=O)CCC(=O)N1CCOCC1)C[N@H+]1CCC[C@H](C1)C,ZINC36398551
-c1cc(cc(c1)S(=O)(=O)NC)C(=O)OCC(=O)c1ccc2c(c1)[nH]c(=O)[nH]2,ZINC07974208
-c1csc(c1C(=O)N)NC(=O)COC(=O)C1CCN(CC1)S(=O)(=O)C,ZINC11594626
-c1cc(c(cc1C[N@H+]1CC[C@H](c2ccnn2CCO)CC1)F)N1CCOCC1,ZINC92811224
-c1ccc(cc1)[C@H](C(=O)NC)NC(=O)C[N@@H+]1CC[C@H](CC1)CN1CCOCC1,ZINC69028375
-c1cc2cc(ccc2nc1)OCc1nc(co1)C(=O)N(C)Cc1cnc(nc1)N,ZINC67562804
-C(#CCOc1cccc(c1)NC(=O)C)CNC(=O)c1cccc(c1)n1cnnn1,ZINC90731888
-c1cc(ccc1C(=O)N1CCN(C(=O)c2ccc(cc2)O)CC1)Cn1ccnc1,ZINC60626246
-c1ccc2c(c1)c(c[nH]2)CC(=O)NNC(=O)c1ccc(cc1)CN1C(=O)CCC1,ZINC25449338
-c1ccnc(c1)COc1ccc(cc1)CNC(=O)Nc1ccc(c(c1)C(=O)N)C,ZINC67310441
-c1cc(ccc1C(=O)CC)OCC(=O)N[C@@H](c1ccc(cc1)S(=O)(=O)N)C,ZINC06602410
-c1cnc(nc1N1CCC2(CC1)CN(C(=O)O2)CC[N@H+]1CC[C@@H](C1)N(C)C)N,ZINC77535435
-c1cc(cc(c1)S(=O)(=O)N)[C@H](C)[N@@H+](C)Cc1ccc(cc1)N1CCOCC1,ZINC92585545
-c1cc(ccc1c1nc(cc(n1)NCc1ccc(cc1)C(=O)NC)CC)[N+](=O)[O-],ZINC53557935
-C(#N)c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(CNC(=O)C)s1,ZINC67067538
-c1cc(ccc1N1CCN(C(=O)CSc2ncc(CO)n2C)CC1)[N+](=O)[O-],ZINC72307074
-c1cc2c(c[nH]c2nc1)C1CCN(C(=O)CCC(=O)c2ccc(cc2)OC)CC1,ZINC61427592
-C(#N)CC(=O)Nc1ccc(cc1)C(=O)NCc1ccc(cc1)C[NH+]1CCCCC1,ZINC12899012
-c1cc(ccc1n1c(c(cn1)C(=O)Nc1ccc2c(c1)[nH]c(=[O-])o2)CC)[N+](=O)[O-],ZINC33015851
-c1cc(ccc1Cc1ccc(cc1)NC(=O)/C=C/C(=O)[O-])NC(=O)/C=C/C(=O)[O-],ZINC02044988
-c1cc(ccc1Cc1ccc(cc1)NC(=O)/C=C/C(=O)[O-])NC(=O)/C=C/C(=O)[O-],ZINC08616707
-c1cc(ccc1c1ccc(=O)n(CC(=O)Nc2ccc(cc2)C(=O)N)n1)OCC,ZINC38827713
-c1ccc2c(c1)c(c[nH]2)C[C@H](C)NC(=O)C[C@@H]1C(=O)Oc2cc(ccc2[C@@H]1C)O,ZINC38573757
-c1cc2c(cc1CNC(=O)[C@H](C)[NH2+]Cc1ccc(cc1)S(=O)(=O)N)OCO2,ZINC08428823
-c1ccc2c(c1)c(c[nH]2)CC(=O)N1CCN(C(=O)Nc2ccc(cc2)OC)CC1,ZINC47323999
-c1ccc2c(c1)c(c[nH]2)C(=O)N(C)CC(=O)Nc1ccc(cc1)N1CCOCC1,ZINC07220140
-c1ccc2c(c1)NC(=O)CN2CC(=O)N1CCN(c2ccc(cc2)C(=O)C)CC1,ZINC72314836
-c1ccc(cc1)C1=[NH+]C=CN1CCN1CCN(CC1)Cc1ccc(cc1)[N+](=O)[O-],ZINC77159642
-c1cc(cc2c1c(c(C(=O)N/N=C/c1ccc(c(c1O)O)O)s2)Cl)OC,ZINC04965176
-c1ccc2c(c1)c(c[nH]2)c1nnc(o1)SCC(=O)Nc1ccc(cc1)C(=O)[O-],ZINC03277438
-C(#N)c1cccc(c1)NC(=O)CSc1nc([nH]n1)N/N=C/c1ccc(cc1)O,ZINC21078064
-c1cc(cc(c1)NC(=O)c1ccc(cc1)OC)/C=C/c1ncc(C(=O)NC)s1,ZINC72057925
-c1ccc2c(c1)c(cc(n2)SCCC(=O)Nc1ccc(cc1)C(=O)C)C(=O)N,ZINC32907163
-c1cc(ccc1CNC(=O)C(=O)Nc1ccc(nc1)n1ccnc1C)C[NH+](C)C,ZINC70798107
-c1cc(ccc1c1nc(cc(=O)[nH]1)CC)C[NH+]1CCN(CC1)CCn1ccnc1,ZINC23478633
-c1cc2c(cc1C(=O)N1CCN(C(=O)Nc3ccc(cc3)[N+](=O)[O-])CC1)nc[nH]2,ZINC40158489
-c1cc(cc(c1)O)C[NH+]1CCN(CC1)Cc1cc(ccc1OC(F)F)[N+](=O)[O-],ZINC92789677
-c1cc(cc(c1)NC(=O)/C=C/c1cccc(c1)[N+](=O)[O-])C(=O)Nc1nccs1,ZINC58867695
-c1cc(cc(c1)NC(=O)[C@@H](C)Oc1ccc2c(c1)oc(=O)cc2CC)C(=O)NC,ZINC21586527
-c1cc(ccc1C(=O)NC1CCCC1)NC(=O)CCC(=O)c1ccc(cc1)OC,ZINC61408769
-c1c/c(=[NH+]/C(=O)CN2CCN(CC2)S(=O)(=O)CC)/cc2c1c(cc(o2)O)C,ZINC20045557
-c1cc(cc(c1)NC(=O)C)/C(=N\NC(=O)c1ccc(cc1)CN1CCOCC1)/C,ZINC19770679
-c1cc2c(cc1C(=O)N1CCC(CC1)CCc1cc(cc(c1)OC)OC)n[nH]n2,ZINC08719788
-C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)N[C@@H](c1ccccc1O)CC,ZINC92408145
-C(#N)c1ccc(cc1)CN1CCN(c2ccc(cn2)c2nc3ccccc3[nH]2)CC1,ZINC23994720
-c1ccnc(c1)CCN1CCC(CC1)[N@H+]([C@@H]1CC[C@H](c2ccc(cc2)O)CC1)C,ZINC92932821
-c1cc(ccc1C(=O)[O-])n1c(cc(c1C)/C=C/c1nc(c(c(=O)[nH]1)[N+](=O)[O-])O)C,ZINC09186406
-c1ccc2c(c1)c(CC(=O)OCC(=O)NCc1ccc3c(c1)OCO3)n[nH]c2=O,ZINC03409031
-c1ccc(cc1)[C@@](C(=O)N)(C)NC(=O)[C@H](C)NC(=O)/C=C/c1ccc(cc1)OC,ZINC58151831
-c1cc(c(cc1CC(=O)N1CCC(c2ncc3c(CC[N@H+](C3)C)n2)CC1)C)OC,ZINC19571077
-C(#N)c1cccc(c1)OCc1ccoc1C(=O)Nc1cc(ccc1Cl)C(=O)N,ZINC78915559
-c1cc(ccc1C(=O)[C@H](C)OC(=O)c1ccc(c(c1)N)Cl)[N-]S(=O)(=O)C,ZINC07026041
-c1cc(ccc1C(=O)NC)C[S@](=O)CC(=O)Nc1ccc(cc1)OC(F)F,ZINC66949886
-c1cc(cc2c(c(C)[nH]c12)CC(=O)N1CCN(c2ccc(cc2)[N+](=O)[O-])CC1)F,ZINC24544560
-c1cc(cc2c1nc(NC(=O)Cn1c(=O)c3cc(ccc3nc1C)O)s2)OC,ZINC72401279
-c1cc(ccc1C(=O)NCC(=O)N)CNC(=O)c1ccc(cc1)N1CCOCC1,ZINC62581329
-c1cc(cc(c1)NC(=O)CNc1cccc(c1)NC(=O)COC)C(=O)NC1CC1,ZINC29943467
-c1cc2c(cc1c1nc([C@@H]3CCC(=O)N(C3)CCN3CCOCC3)on1)[nH]cn2,ZINC92001782
-c1cc(cc(c1C)C(=O)N)NC(=O)N1CCN(CC1)Cc1ccc(cc1)OCC,ZINC67312252
-c1cc(ccc1C(=O)N)NC(=O)[C@@H](C)Nc1ccc(cc1)CCN1CCOCC1,ZINC56216032
-c1ccc(cc1)[C@@H](CNC(=O)COc1ccc2c(c1)CCC(=O)N2)[NH+](CC)CC,ZINC32902075
-c1cc(ccc1C(=O)[O-])NC(=O)CN1C(=O)/C(=C/c2ccc(cc2)O)/SC1=O,ZINC15049855
-c1cc(cc(c1)NC(=O)CNc1ccc(c(c1)n1c(C)nnn1)F)C(=O)NCC,ZINC68964233
-c1cc(cc(c1)NC(=O)Cc1c(c2ccc(c(c2oc1=O)OC)OC)C)[C@@H](C)O,ZINC12894477
-C(#N)c1ccc(c(c1)OC)Oc1ccc(cc1)NC(=O)c1c2ccccc2[nH]c1C,ZINC72072371
-c1cc(ccc1C1=CCN(C(=O)Nc2ccc(c(c2)NC(=O)C)F)CC1)OCC,ZINC91935373
-c1cc(ccc1C1=CCN(C(=O)Nc2ccc(c(c2)C(=O)NC)F)CC1)OCC,ZINC92031322
-c1cc2c(cc1/N=C/c1cc(C)n(c3ccc(cc3)S(=O)(=O)N)c1C)OCO2,ZINC04675760
-c1ccc(cc1)[C@@H](C1CCN(C(=O)Nc2nc3ccc(cc3s2)OC)CC1)O,ZINC72280554
-c1cc2c(c(c1)NC(=O)COCC(=O)NCc1cccnc1)C[N@H+](C2)CC(C)C,ZINC92408291
-c1cc(ccc1OC)OCC(=O)N1CCC(c2ncc3c(CC[N@H+](C3)C)n2)CC1,ZINC19590678
-c1cc(ccc1C(=O)N1CCC(c2ncc3c(CC[NH2+]C3)n2)CC1)OCCOC,ZINC19593654
-c1c(c(c(cc1S(=O)(=O)N)NC(=O)C[N@H+]1CCC[C@H](C1)CCC(=O)N)C)C,ZINC58307103
-c1ccc(cc1)c1c(c[nH]n1)C[N@@H+]1CC[C@H](CC1)CCC(=O)NC[C@@H]1CCCO1,ZINC15061959
-c1cc(cc(c1)C[NH+](C)C)CNC(=O)N[C@H](c1ccc(cc1)N1CCOCC1)C,ZINC68549335
-c1cc(ccc1[C@H]1CC[C@H](CC1)[N@@H+]1CC[C@H](CC1)CNC(=O)c1cnn(c1)C)O,ZINC92934611
-c1cc(ccc1CC(=O)N/N=C/c1c(n(c(=O)s1)CC(=O)OCC)Cl)O,ZINC04942514
-c1cc(cc(c1)CNC(=O)Nc1cccc(c1)C(=O)NCC(=O)OC)C(=O)NC,ZINC48152980
-c1cc(ccc1n1cnnn1)OCC(=O)Nc1cn(CC)nc1C(=O)NCCC,ZINC28236566
-c1cc(ccc1c1ccc2c(c1)CCO2)CNC(=O)c1ccc(o1)S(=O)(=O)N,ZINC61603815
-c1cc(ccc1c1nc(C)no1)C(=O)NNC(=O)c1ccc(C[NH+](CC)CC)o1,ZINC69298041
-c1cc(c(c(c1)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])C)NC(=O)CCC,ZINC62297980
-c1ccc2c(c1)c(c[nH]2)CCC(=O)Nc1ccc(c(c1)NC(=O)c1ccncc1)C,ZINC67068155
-c1cc(ccc1CNC(=O)COc1ccc(cc1)[N+](=O)[O-])C[N@@H+]1CCC[C@@H](C1)C,ZINC58948994
-c1cc([C@H](CNC(=O)c2ccc(cc2)CSc2ncn[nH]2)[NH+]2CCCC2)oc1,ZINC34887554
-c1ccc2c(c1)c1c(nc(nn1)N/N=C/c1ccc(c3ccc(cc3)[N+](=O)[O-])o1)[nH]2,ZINC04587358
-c1ccc(cc1)COc1ccc(cc1)C(=O)Nc1ccc(cc1)c1ccc(CO)o1,ZINC20145012
-c1cc(cc(c1)C(=O)[O-])c1ccc(CNCCc2ccc(cc2)S(=O)(=O)N)o1,ZINC20585723
-c1ccc(cc1)[C@H](Cc1ncc[nH]1)NC(=O)c1ccc(c2ccc(cc2)C(=O)C)o1,ZINC12549886
-c1cc2c(cc1C(=O)Nc1nc(cs1)c1cc(C(=O)N)[nH]c1)NC(=O)CS2,ZINC39554905
-c1cc(cc(c1)NC(=S)NC(=O)/C=C/c1ccc(c(c1)OC)OC)C(=O)NC,ZINC13630781
-c1cc(cnc1)NC(=O)CCc1c(C)nn(c2ccc(cc2)S(=O)(=O)N)c1C,ZINC63119845
-c1ccc(c(c1)c1nnc(n1N)SCCC(=O)Nc1ccc(cc1)OCC)O,ZINC59264036
-c1cc(cc(c1)O)NC(=O)CSc1nnc(c2ccncc2)n1CCCOC,ZINC04169272
-c1cc(c(cc1CC(=O)N1CCC(c2ncc3c(CC[N@H+](C3)C)n2)CC1)F)OC,ZINC19590681
-c1cc2c(c(c1)NC(=O)/C=C/c1ccc(cc1)[N-]S(=O)(=O)C)C[N@@H+](C2)CCC,ZINC66761138
-C(#N)c1ccc(cc1Cl)NC(=O)C(=O)N(Cc1ccc(cc1)C[NH+](C)C)CC,ZINC66725640
-c1cc(cc(c1)[N+](=O)[O-])C[C@@H]1C(=O)N/C(=N\N=C\c2ccc(c(c2)OC)O)/S1,ZINC39888178
-c1cc(ccc1CSc1nc([nH]n1)N/N=C/c1cc(ccc1O)OC)[N+](=O)[O-],ZINC21075672
-C(#N)/C(=C\c1ccc(cc1)N1CCOCC1)/C(=O)NCCc1c[nH]c2ccccc12,ZINC01093585
-c1cc(ccc1N1CCN(C(=O)Cc2csc(n2)NC(=O)C2CC2)CC1)OC,ZINC09573757
-c1nc2c(c(n1)N1CCC(CC1)[N@@H+]1CCC[C@@H](C(=O)N3CCOCC3)C1)nc[nH]2,ZINC71712255
-c1nc2c(c(n1)N1CCC(CC1)[N@H+]1CCC[C@H](C(=O)N3CCOCC3)C1)nc[nH]2,ZINC71712254
+SMILES                                                      Zinc_ID
+C(#N)c1ccc(cc1)/C=C/C[NH2+]Cc1cccc(c1)CO                    ZINC89787515
+C(#N)CCCOc1cccc(c1)NCc1cccc(c1)O                            ZINC37777353
+c1cc(cc2c1cn[nH]2)C(=O)NCCCCCCC(=O)[O-]                     ZINC37453641
+C(#N)c1ccc(cc1)/C=C/C=C/C(=O)c1cc(ccc1O)O                   ZINC89589828
+C(#N)c1ccc(cc1)NC(=O)CSc1cc(ccc1C)N                         ZINC91941902
+c1cc(cc(c1)O)NC(=O)/C=C/C(=O)Nc1cccc(c1)O                   ZINC00208407
+c1cc(cc(c1)O)/C=N/NC(=O)N/N=C/c1cccc(c1)O                   ZINC00171951
+c1cc(cc(c1)O)CCNC(=O)CCc1ccc(cc1)OC                         ZINC58295955
+c1cc(ccc1CO)OCCCOc1ccc(cc1)[N+](=O)[O-]                     ZINC78380325
+c1cc(ccc1C(=O)N1CC[NH+](CC1)CCCCCCO)O                       ZINC85785413
+C(#N)c1ccc(cc1)NCC(=O)Nc1cc(ccc1C)C(=O)N                    ZINC69486930
+c1cnc(cc1O[C@@H]1CC[N@H+](CC1)CCCCCO)C(=O)N                 ZINC93260857
+C(#N)c1ccc(cc1)O[C@@H](C(=O)N(C)Cc1ccc(cc1)O)C              ZINC41676587
+c1cc(cc(c1)N)CCC(=O)Nc1ccc(cc1)N(C(=O)C)C                   ZINC66153543
+C(#N)c1ccc(cc1)OCCNc1cc(cc(c1C)F)C(=O)N                     ZINC95395009
+c1cc(cnc1)OCCCC(=O)Nc1ccc(c(c1)C(=O)N)C                     ZINC79949646
+C(#N)c1cccc(c1)O[C@@H]1CC[N@H+](CC1)Cc1ccc(CO)o1            ZINC92034342
+c1cc(cc(c1)O)/C=N/NC(=O)CCc1ccc(cc1O)OC                     ZINC59148804
+C(#N)c1cnn(c1)CC[N@@H+]1CCC[C@H](c2cc(C(=O)N)[nH]n2)C1      ZINC76060310
+C(#N)c1ccc2c(ccc(n2)NCc2cccc(c2)C(=O)NC)c1                  ZINC92890315
+C(#N)c1ccc(cc1)/C=C/C[NH2+]Cc1ccc(cc1)C(=O)NCC              ZINC89784427
+C(#N)c1ccc(nc1)N1CCC(CC1)Nc1cc(ccn1)C(=O)N                  ZINC66818609
+C(#N)c1ccc(cc1)CCC(=O)Nc1nc(cs1)c1ccc[nH]1                  ZINC24703054
+c1cc(cc(c1)OC)C(=O)Nc1ccc(cc1)c1ccc(CO)o1                   ZINC20141404
+c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(cc1)OC                     ZINC20141666
+C(#N)CCN(c1ccc(cc1)C[NH2+]Cc1cccc(c1)C(=O)N)C               ZINC78358171
+C(#N)c1ccc(cc1)[C@@H](C)NC(=O)NCc1ccc(c(c1)O)OC             ZINC79533135
+C(#N)CSc1cccc(c1)C(=O)NCc1cccc(c1)C(=O)N                    ZINC79400753
+C(#N)c1ccc(cc1)N1C(=O)[C@@H](CC1)Sc1nc(cc(n1)N)C            ZINC78359297
+C(#N)c1ccc(c(c1)F)C[NH+]1CCN(CC1)Cc1cccc(c1)O               ZINC81011267
+c1cc(cc(c1C(=O)C)C)NC(=O)NCCCc1ccc(cc1)O                    ZINC89466226
+c1cc(cc(c1)N)/C(=N/NC(=O)CNc1ccc(cc1)OCC)/C                 ZINC00524625
+C(#N)COc1cccc(c1)CC(=O)Nc1ccc(cc1F)C(=O)N                   ZINC89820421
+c1cc(cc(c1)O)/C=N/NC(=O)C(=O)Nc1ccc(cc1)OCC                 ZINC04261146
+c1cc(ccc1/C=N/NC(=O)CCCc1ccc(cc1)O)[N+](=O)[O-]             ZINC06241861
+c1cc(ccc1c1nnc(C)o1)NC(=O)Nc1cnn(c1)CCO                     ZINC80158387
+c1cc(cc(c1)O)NC(=S)NC(=O)/C=C/c1ccc(cc1)OC                  ZINC14003828
+c1cc(ccc1C=O)OCCC(=O)Nc1ccc(c(c1)C(=O)N)F                   ZINC68264839
+c1cc(cc(c1)OCC(=O)N/N=C/c1cc(ccc1O)O)[N+](=O)[O-]           ZINC01021841
+c1cc(ccc1C(=O)NCCCc1c(C)nc([nH]c1=O)N)[N+](=O)[O-]          ZINC17014782
+C(#N)COc1ccc(cc1)/C=C/C(=O)Nc1ccc2c(c1)[nH]nc2C             ZINC91825869
+c1cc(cc(c1)O)CC(=O)N[C@@H](c1ccc(cc1)c1ccncc1)C             ZINC74828509
+C(#N)c1ccc(cc1)/C=C/CNc1cccc(c1)N1C(=O)NCCC1                ZINC89791605
+c1cc(ccc1CCCNC(=O)CCC1CCN(C(=O)C)CC1)O                      ZINC80376323
+c1cc(c(cc1/C=N/NC(=O)CNc1c(=O)[nH]c(=O)[nH]n1)O)OC          ZINC01800800
+C(#N)c1ccc(cc1)NCC(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2           ZINC89996236
+C(#N)c1ccc(cc1)N1C(=O)[C@H](CC1)Nc1cc(ccc1C)C(=O)N          ZINC89646908
+c1cc(ccc1[C@H]1CC[C@H](CC1)[N@@H+]1CC[C@@H](C1)COCCOC)O     ZINC93754565
+c1cc(ccc1C(=O)N)CNC(=O)c1cnn(c2ccncc2)c1C                   ZINC90086348
+C(#N)c1ccc2c(ccc(n2)NCc2ccc(c(c2)F)C[NH+](C)C)c1            ZINC92940503
+c1cc(cc(c1)CCNCc1ccc(cc1)n1cncn1)C(=O)NC                    ZINC77431486
+c1cc(ccc1OC)OCCCNc1c(cc(cn1)C(=O)N)Cl                       ZINC57149081
+c1cc(ccc1Cn1cc(C(=O)Nc2ccc(cc2)OCC)nc1)N                    ZINC71775346
+c1cc(ccc1c1nc(C)n[nH]1)C(=O)NCCCc1ccc(cc1)O                 ZINC73819157
+c1c(C(=O)N)[nH]nc1[C@H]1CCC[N@H+](C1)CC(=O)NC[C@@H]1CCOC1   ZINC76060291
+c1cc(cc(c1)O)[C@@H](C)N(C(=O)NCCCOC1CCOCC1)C                ZINC74540803
+c1cc(cc(c1)[N+](=O)[O-])C(=O)NNC(=O)CSc1nc([nH]n1)N         ZINC10715902
+c1cc(ccc1c1cnnc(n1)N/N=C/c1ccc(c(c1)O)O)OC                  ZINC04351324
+C(#N)c1cc(C(=O)Nc2ccc(cc2)n2ccc(C(=O)N)n2)sc1               ZINC84091957
+c1cc(cc(c1)NC(=O)c1cc(C)n(c2ccc(cc2)OC)n1)CO                ZINC92215344
+c1cc(cc(c1)NC(=O)CC)NC(=O)/C=C/c1ccc(cc1)C(=O)N             ZINC81524275
+C(#N)c1ccc(cc1)[C@H](C)NC(=O)Nc1cc(ccc1OC)C(=O)N            ZINC45645761
+c1cc(cc(c1)O)CC(=O)N1CC[C@@H](C1)Cc1ccc(cc1)C(=O)[O-]       ZINC72469121
+c1cc(cc(c1)O)CC(=O)N1CC[C@H](C1)Cc1ccc(cc1)C(=O)[O-]        ZINC72469124
+C(#N)c1ccc(cc1)NCC(=O)Nc1c(C#N)c(CCC[NH2+]C)n[nH]1          ZINC89662112
+C(#N)c1ccc(cc1)O[C@@H](C(=O)NCc1ccc(cc1)C[NH+](C)C)C        ZINC23962236
+c1cc(cc(c1)OCc1nc(c2ccc(cc2)OCC)no1)C(=O)N                  ZINC78385208
+c1cc(cc(c1)OCc1nc(c2ccc(cc2)OC)on1)CC(=O)N                  ZINC67099335
+c1cc(cc(c1)NC(=O)CNc1cccc(c1C)C(=O)NC)C(=O)C                ZINC79170493
+c1cc(C(=O)NC)nc(c1)N1CCN(c2ccc(cc2)C(=O)N)CC1                 ZINC78291175
+c1cc(ccc1c1nc(co1)COc1ccc(cc1)CCO)[N+](=O)[O-]                ZINC89740245
+c1cc(ccc1C(=O)N)COC(=O)c1ccc(cc1)N1CCOCC1                     ZINC58385277
+C(#N)c1ccc(cc1)CSCC(=O)Oc1cccc(c1)C(=O)NC                     ZINC49697501
+c1cnccc1c1ncc(cn1)C(=O)NCCCc1csc(n1)N                         ZINC95373325
+c1cc(cc(c1)O)CC(=O)N1CCN(c2ccc(cc2)[N+](=O)[O-])CC1           ZINC63535233
+C(#N)c1cccc(c1)OCCCCC(=O)Nc1c(cn(C)n1)C(=O)N                  ZINC93282188
+c1cc(cc(c1)CNc1ccc(cc1)C(=O)NCCCO)C(=O)NC                     ZINC83141786
+c1cc(cc(c1)O)CN1CCN(C(=O)Nc2ccc(cc2)OC)CC1                    ZINC58282183
+c1cc(c(cc1CNC(=O)Nc1ccc(nc1)n1cncn1)F)CO                      ZINC56501638
+c1cc(cc(c1)O)C(=O)O[C@@H](C(=O)Nc1ccc(cc1)NC(=O)C)C           ZINC09256107
+c1cc(ccc1CO)OCC(=O)Nc1ccc(cc1)N1CCOCC1                        ZINC03337666
+c1cc(c(cc1CC(=O)NNC(=O)CCc1ccc(cc1)OC)O)C                     ZINC89437810
+c1cc(c(cc1CC(=O)NCC(=O)Nc1ccc(cc1)OCC)O)C                     ZINC89438063
+c1cc(cc(c1)OCC(=O)Nc1ccc(cc1)N1CCOCC1)CO                      ZINC89128467
+c1cc(cc(c1)O)NC(=S)NC(=O)/C=C/c1ccc(cc1)OCC                   ZINC13620949
+c1cc(cc(c1)NC(=O)NCCCc1ccc(cc1)OC)C[NH+](C)C                  ZINC56600943
+c1cc(c(cc1C(=O)OCC(=O)NC(=O)c1ccc(cc1)OC)O)C                  ZINC08705939
+c1cc(cc(c1)O)/C=N/NC(=O)C(=O)Nc1ccc(cc1OC)OC                  ZINC04499509
+c1cc(ccc1C(=O)N1CCN(C(=O)CCCn2cncn2)CC1)O                     ZINC77493011
+c1cc(ccc1CC[C@H]1CCCCN1C(=O)CCc1cc(=[O-])[nH]o1)O             ZINC55153458
+C(#N)c1ccc(cc1)/C=C/C[N@H+]1CC[C@H](c2c[nH]c3c2cccn3)CC1      ZINC91955092
+c1cc(cc(c1NCC[NH2+]CCOc1c(non1)N)Cl)[N+](=O)[O-]              ZINC59384047
+c1cc(ccc1C(=O)OC)CCC(=O)Nc1ccc(c(c1)C(=O)N)F                  ZINC68088866
+c1cc(cc(c1)NCc1ccc(cc1)Oc1cnccn1)c1nc[nH]n1                   ZINC95437430
+C(#N)CCN(C(=O)CC[N@@H+]1CC[C@H](C(=O)c2ccc(cc2)O)CC1)C        ZINC92802629
+c1cc(cc(c1)O)c1ccc(cn1)c1nc(c2ccc(cc2)OC)no1                  ZINC72148253
+c1cc(ccc1C(=O)N)NC(=O)CSCc1ccc(cc1)[N+](=O)[O-]               ZINC24605896
+c1cc(cc(c1)O)N1CC[NH+](CC1)CCn1cc(ccc1=O)[N+](=O)[O-]         ZINC90516270
+c1cc(ccc1c1ccc(C[NH2+]CCCN2CCOCC2)o1)[C@@H](C)O               ZINC19872330
+c1cc(cc(c1)O)CN1CC[NH+](CC1)Cc1ccc(cc1)[S@](=O)C              ZINC92789655
+c1ccc(c(c1)/C=[NH+]/[C@@H](c1ccc(cc1)NC(=O)c1ccncc1)C)O       ZINC72613596
+c1cc(c(cc1N)NC(=O)CC[N@@H+]1CC[C@@H](C1)Cc1cnn(c1)C)F         ZINC83216954
+c1cc(cc(c1)O)C[N@H+]1CCC[C@H](C1)NC(=O)c1cn(CC[NH3+])nn1      ZINC77339169
+c1cc(ccc1C(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2)n1cnnc1             ZINC89996799
+c1cc(ncc1C(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2)n1ccnc1             ZINC89996607
+c1cc(cc(c1)NC(=O)N)NC(=O)/C=C/c1ccc(cc1)n1ccnc1               ZINC73667858
+c1cc(ncc1[N+](=O)[O-])N[C@@H]1CCN(C1)Cc1cc(cs1)C(=O)N         ZINC93534779
+C(#N)c1ccc(cc1)N(C(=O)CCc1cccc(c1)C(=O)NC)C1CC1               ZINC89842447
+c1cc(cc2c1[nH]nc2C(=O)N)NC(=O)c1cc(c2ccncc2)on1               ZINC89798219
+c1cc(cc2c1cc[nH]2)C(=O)Nc1ccc(cc1)OCc1nc(C)no1                ZINC74637981
+c1cc(cc(c1)O)c1ncc(cn1)NC(=O)c1cccc(c1)NC(=O)C                ZINC57883189
+c1cc(ccc1C(=O)C)C(=O)Nc1ccc(cc1)n1ccc(C(=O)N)n1               ZINC78612334
+c1cc(ccc1CC(=O)OCC(=O)Nc1c(ccs1)C(=O)N)OC                     ZINC03406014
+c1cc(cc(c1)NC(=O)CCc1cccc(c1)C(=O)NC)c1cn[nH]c1               ZINC90498355
+c1cc(cc(c1)[N+](=O)[O-])n1ccc(C(=O)Oc2ccc3cn[nH]c3c2)n1       ZINC86025316
+c1cc(cc(c1)O)/C=C\1/C(=O)N(C(=O)S1)CC(=O)NCCC(=O)[O-]         ZINC15050291
+c1cc(nc2c1C(=NC=[NH+]2)NCc1cn(c2ccc(cc2)OC)nn1)N              ZINC90110041
+c1cc(cc(c1)NC(=O)CCc1ccc(cc1)C(=O)OC)c1cn[nH]c1               ZINC90497709
+c1cc2c(cc[nH]2)c(c1)NC(=O)[C@@H]1CC(=O)N(c2ccc(cc2)OC)C1      ZINC72400665
+c1cc(cc2c1cc[nH]2)C(=O)Nc1ccc(cc1)CCN1CCOCC1                  ZINC56040168
+c1c(csc1C(=O)C)C[N@@H+]1CC[C@H](CC1)Cn1cc([C@@H](C)O)nn1      ZINC19595606
+c1cc(cc(c1)CNC(=O)COc1ccc(cc1)C=O)c1nc(C)[nH]n1               ZINC89999025
+c1cc(cc(c1)OCCC(=O)Nc1ccc(cc1)c1cc[nH]n1)C(=O)N               ZINC81612028
+c1cc(ccc1/C(=C/C(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2)/C)OC         ZINC89797128
+C(#N)c1ccc(cc1)[C@@H](C)NC(=O)NCc1ccc(cc1)C(=O)NCC            ZINC48851847
+C(#N)c1ccc(cc1)[C@H](C)NC(=O)NCc1ccc(cc1)C(=O)NCC             ZINC48851844
+c1cc(ccc1C(=O)NCCCc1ccc(cc1)O)n1c(C)nc(C)n1                   ZINC80376254
+c1cc(ccc1c1nnco1)OCC(=O)Nc1ccc2c(c1)[nH]c(=O)[nH]2            ZINC07737697
+c1cc(cc(c1)OC)c1cc(CC(=O)Nc2ccc(cc2)C(=O)N)no1                ZINC11693194
+c1cc(cc2c1cc[nH]2)C(=O)Nc1ccc(cc1)C(=O)NCC(=O)OC              ZINC59008220
+C(#N)c1ccc(cc1)N1C(=O)CN(C(=O)c2ccc(c(c2)OC)O)CC1             ZINC77439837
+C(#N)c1ccc(cc1)SCC(=O)Nc1ccc2c(c1)c(C(=O)N)n[nH]2             ZINC89797976
+C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1cccc(c1C)O        ZINC92046741
+C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1cc(ccc1O)C        ZINC92035808
+C(#N)CCCOc1cccc(c1)NC(=O)c1ccc(c(c1)NC(=O)C)C                 ZINC55570412
+c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(c(c1)C)[N+](=O)[O-]          ZINC20140950
+c1cc(ccc1C(=O)N)NC(=O)Cn1c(=O)c2cc(ccc2nc1C)O                 ZINC72402082
+c1cc(cc(c1)[N+](=O)[O-])/C=C/C(=O)N1CC[C@H](c2ccc(cc2)O)CC1   ZINC73394899
+C(#N)COc1ccc(cc1)/C=C/C(=O)N[C@H](c1cccc(c1)OC)CO             ZINC92626125
+C(#N)c1ccc(cc1)CN(C(=O)Nc1cc(ccc1OC)C(=O)NC)C                   ZINC57701619
+c1ccc(c(c1)[C@H](CNCc1ccc(cc1)OCc1ccncc1)O)F                    ZINC79924850
+C(#N)CSc1cccc(c1)C(=O)Oc1cccc(c1)C(=O)NC1CC1                    ZINC79413246
+c1cc(ccc1c1ccc(cc1)Nc1nc(cs1)C(=O)NC)C(=O)N                     ZINC27914127
+c1cc(cc(c1)C[NH2+]Cc1ccc(cc1)OCC(=O)N)c1nc(C)[nH]n1             ZINC89796252
+c1cc(cc(c1)OC)/C=C/C(=O)N1CCN(CC1)Cc1cccc(c1)O                  ZINC86247077
+c1cc(cc(c1)OCc1coc(c2ccc(cc2)[N+](=O)[O-])n1)CC(=O)N            ZINC89737217
+c1cc(ccc1c1nc(C(=O)NC)on1)COc1ccc2c(c1)OCO2                     ZINC32094141
+c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(c(c1)OC)OC                     ZINC20143233
+C(#N)c1ccc(cc1F)OCc1csc(c2ccc(cc2)C(=O)N)n1                     ZINC66750305
+C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1cc(c[nH]1)C(=O)N    ZINC92045919
+c1cc(ccc1CCNC(=O)[C@@H](C)Oc1ccc(cc1)n1cnnn1)O                  ZINC27976105
+c1cc(ccc1c1ccc(C(=O)NCc2cc3C[NH2+]CCn3n2)o1)OC                  ZINC82092326
+C(#N)Cc1ccc(cc1)OCCNc1cccc(c1C)C(=O)NCCO                        ZINC81182408
+c1cc(ccc1C(=O)N)C(=O)NCc1ccc(cc1)CN1CCOCC1                      ZINC29716311
+c1cc(ccc1C(=O)N)C[N@@H+]1CC[C@H](C(=O)c2ccc(cc2)OC)CC1          ZINC14327441
+c1cc(ccc1C(=O)N)CN1CC[NH+](CC1)Cc1ccc(cc1)C(=O)N                ZINC27343080
+c1cc(ccc1C(=O)N)NC(=O)[C@H](C)Oc1ccc(cc1)CCC(=O)C               ZINC03328034
+c1cc(cc(c1)OCCCC(=O)Nc1ccc(c(c1)C(=O)N)C)C(=O)C                 ZINC66441011
+c1cc(cc(c1)O)C(=O)N1CCN(C(=O)Cc2ccc(c(c2)O)C)CC1                ZINC89439110
+c1cc(ccc1C(=O)OC)NC(=O)N1CCC(c2ccc(cc2)O)CC1                    ZINC48007191
+c1cc(ccc1C(=O)NCC(=O)N1Cc2cc(ccc2CC1)O)OCC                      ZINC52865789
+c1cc(cc(c1)NCC(=O)Nc1cccc(c1C)NC(=O)CC)C(=O)N                   ZINC66095198
+c1cnc(nc1N1CCC(c2nnc(Cn3cncn3)n2CC)CC1)N                        ZINC91829853
+c1cc(ccc1C[NH2+]CCOc1ccc2c(c1)CCC(=O)N2)NC(=O)C                 ZINC75808880
+C1=C(N=C([NH+]=C1)N1CC[C@@H](c2nnc(Cn3ccnc3)n2CC)CC1)N          ZINC91690713
+c1cc(cc2c1CCN(C(=O)NCCc1ccc(cc1)OC(C)C)C2)O                     ZINC45927015
+c1cc(c(cc1CC(=O)N[C@H](c1ccc(cc1)N1CCOCC1)C)O)C                 ZINC89438157
+c1cc(ccc1C(=O)NC)C[N@H+](C)Cc1ccc(cc1)N1CCOCC1                  ZINC66951466
+c1cc(ccc1n1cc(cn1)C(=O)Nc1c(cn(C)n1)C(=O)N)[N+](=O)[O-]         ZINC93281296
+c1cc(ccc1C(=O)N)NC(=O)C1CCN(c2ccc(=O)n(C)n2)CC1                 ZINC85470913
+c1cc(c(cc1/C=C/C(=O)N1CC[C@H](c2ccc(cc2)O)CC1)F)OC              ZINC78472462
+C(#N)c1cccc(c1)NC(=O)C[S@@](=O)Cc1ccc(cc1)C(=O)NC               ZINC66950064
+c1cc(cc(c1)OCC[NH2+][C@H](c1ccc2c(c1)[nH]c(=O)[nH]2)C)NC(=O)C   ZINC91372678
+c1cc(cc(c1)NC(=O)CCC1CCN(C(=O)C)CC1)c1nc(C)[nH]n1               ZINC79657430
+c1cc(ccc1CN1C[C@@H](C)O[C@H](C1)C)CNc1cncc(C(=O)N)n1            ZINC80770919
+c1cc(cc(c1)NC(=O)N1CCN(c2ccc(cc2)O)CC1)C[NH+](C)C               ZINC44292982
+C(#N)[C@H](C)Oc1ccc(cc1)C[N@H+]1CC[C@H](c2ccnn2CCO)CC1          ZINC92811182
+c1cc(c(c(c1)NC(=O)NCc1ccc(cc1)C[NH+](C)C)C)NC(=O)C              ZINC76102818
+c1cc(cc(c1)O)c1ncc(cn1)NC(=O)c1cc(c(C)s1)[N+](=O)[O-]           ZINC57884432
+c1cc(cc(c1)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])NC(=O)C             ZINC20896906
+c1cc(c(cc1N1CCC(CC1)Oc1ccnc(c1)C(=O)N)C)[N+](=O)[O-]            ZINC92946105
+c1cc(c(cc1CC(=O)N1CC[C@H](C1)Nc1ccc(cn1)[N+](=O)[O-])O)C        ZINC89452546
+C(#N)CCn1cc(c2ccccc12)/C=C/C(=O)Oc1ccc2cn[nH]c2c1               ZINC86023227
+c1cc(cc2c1CCN(C(=O)NCCc1ccc(c(c1)OC)OC)C2)O                     ZINC43001206
+C(#N)c1ccc(cc1)CN(C(=O)Nc1cc(ccc1Cl)C(=O)NC)C                   ZINC48502506
+C(#N)c1ccc(cc1Cl)N1CCC(CC1)Oc1ccnc(c1)C(=O)N                    ZINC92946254
+c1cc(c(c(c1)[N+](=O)[O-])C)C(=O)OCC(=O)Nc1ccc(cc1)C(=O)N        ZINC03235725
+c1cc(cc2c1cc[nH]2)NC(=O)Cc1nc(C(=O)NCCCOC)on1                   ZINC36352721
+c1cc(c(cc1CC[NH2+][C@H]1C(=O)N(c2ccc(cc2)OC)C(=O)C1)O)O         ZINC03901170
+c1cc(cc(c1)CNC(=O)CCC(=O)N1CCOCC1)c1nc(C)[nH]n1                 ZINC89999031
+c1cc(cc(c1)C[C@@H]1CC[N@H+](CC1)Cc1cn(CCO)nc1C)C(=O)[O-]        ZINC72162704
+c1cc(ccc1C1=C[SH+]N=N1)C[N@H+]1CC[C@@H](CC1)n1cc(C[NH3+])nn1    ZINC23369222
+c1cc(cc(c1C(=O)N)F)NC(=O)Nc1ccc2c(c1)nc(COC)o2                  ZINC79802379
+C(#N)c1cc(c(c(c1)F)N1CCC(CC1)Oc1ccnc(c1)C(=O)N)F                ZINC92945855
+c1cc(ccc1N1C(=O)[C@H](CC(=O)Nc2ccc(cc2)O)SC1=O)O                ZINC16926167
+c1ccc2c(c1)c(c[nH]2)CC(=O)N/N=C(/c1ccc(cc1)n1cncn1)\C           ZINC20818150
+c1cc(ccc1C(=O)NC)CNC(=O)CCCc1ccc(c(c1)F)OC                      ZINC84523848
+C(#N)c1ccc(cc1)NCC(=O)Nc1ccc(c(c1)S(=O)(=O)NC)C                 ZINC78503856
+c1cc(cc(c1)NC(=O)NCCNc1ccc(cc1)[N+](=O)[O-])C[NH+](C)C          ZINC44276690
+C(#N)c1ccc(cc1)OC[C@H](CSc1nc(c2ccsc2n1)N)O                     ZINC58453160
+c1cc(ccc1[C@H]1CC[N@@H+](CC1)C[C@@H](COc1ccc(cc1)OC)O)O         ZINC14246322
+C(#N)c1ccc(cc1)N1C(=O)[C@H](CC1)OC(=O)Cc1c[nH]c2ccccc12         ZINC84590543
+C(#N)CCn1cc(c2ccccc12)/C=C/C(=O)Oc1cccc(c1)C(=O)N               ZINC51829376
+c1ccc2c(c1)c(c[nH]2)CC(=O)N1CC(c2nc(c3ccncc3)no2)C1             ZINC49481700
+c1cc(c(cc1C(=O)CCC(=O)NCCCc1ccc(cc1)O)F)OC                      ZINC81774514
+c1cc(ccc1CNC(=O)CCCc1ccc(c(c1)F)OC)NC(=O)N                      ZINC84579976
+c1cc(ccc1CCNC(=O)CNc1ccc(c(c1)NC(=O)C)F)OC                      ZINC43567763
+c1cc(ccc1N1C[C@@H](C)O[C@H](C1)C)NC(=O)Nc1cnn(c1)CCO            ZINC69299922
+c1c(c(cc2c1OCO2)C[N@@H+]1CC[C@H](CC1)Cn1cc([C@H](C)O)nn1)C      ZINC20866346
+c1c(ncnc1NC1CC1)N1CCC(CC1)CCC(=O)N1CCOCC1                          ZINC65274164
+c1ccc2c(c1)c1cc(ccc1n2CCO)/N=N/c1ccc(cc1)[N+](=O)[O-]              ZINC04521034
+c1cc(cnc1)CCC(=O)Nc1ccc(cc1)n1c2c(cn1)c(=O)[nH]cn2                 ZINC29674617
+c1cc(cc(c1)CSCCCOc1ccc(cc1)[N+](=O)[O-])C(=O)NC                    ZINC72998568
+c1cc(ccc1N1C(=O)CN(C(=O)CCc2csc(n2)N)CC1)OC                        ZINC77523911
+c1cc(cc(c1)C[NH+]1CCN(CC1)Cc1cccc(c1)O)c1cccnc1                    ZINC92789549
+c1cc(cc(c1)[N+](=O)[O-])[C@H](CC)NC(=O)NCc1ccc(c(c1)CO)F           ZINC90619880
+c1cc(ccc1c1nnco1)OCCOc1ccc(cc1)S(=O)(=O)N                          ZINC31705414
+C(#N)COc1ccc(cc1)NC(=O)c1cc(ccc1OC)S(=O)(=O)N                      ZINC18828701
+c1cc(ccc1C(=O)C)Oc1ccc(cc1)C(=O)Nc1ccc(c(c1)O)C                    ZINC90064626
+c1cc(cc(c1)COc1ccc(C)nc1)C(=O)Nc1ccc(cc1)C(=O)N                    ZINC74395466
+C(#N)COc1ccc(cc1)/C=C/C(=O)Nc1cccc(c1)NC(=O)C1CC1                  ZINC45631078
+c1cc(cc(c1)O)C[N@H+]1CC[C@H](CC1)NC(=O)CC[C@@H]1C(=O)NC(=O)N1      ZINC91440412
+c1cc2c(c(c1)O)CC[C@H]2NC(=O)[C@H](c1ccc2cc(ccc2c1)OC)C             ZINC76688579
+c1cc(cc(c1)CO)CNC(=O)N[C@@H](c1ccc(cc1)c1ccncc1)C                  ZINC74876519
+c1ccc(cc1)[C@H](CNC(=O)/C=C/c1ccc(cc1)n1ccnc1)[NH+](C)C            ZINC72595859
+c1cc(cnc1)CN1CC[NH+](CC1)CCc1ccc(cc1)S(=O)(=O)N                    ZINC91076965
+c1c(ncnc1NCCC)N1CCC(CC1)CCC(=O)N1CCOCC1                            ZINC65274099
+c1cc(cc(c1)NC(=O)COc1ccc2c(c1)CCC(=O)N2)c1cn[nH]c1                 ZINC90498229
+C(#N)c1ccc(cc1)n1c(cc(c1C)C(=O)NCc1ccc(C(=O)N)o1)C                 ZINC82975947
+c1cc(cnc1)c1cn(C2CCN(c3c4c(nc(n3)N)[nH]cn4)CC2)nn1                 ZINC67694795
+c1cc2c(c(c1)O)CC[C@H]2NC(=O)/C=C/c1ccc(cc1)N1C(=O)CCC1             ZINC74142249
+C(#N)[C@@H](C)Oc1ccc(cc1)/C=C/C(=O)c1ccc(cc1)CCNC(=O)C             ZINC92209857
+C(#N)Cc1cccc(c1)C(=O)N1CCN(CC1)Cc1ccc(cc1)C(=O)N                   ZINC53394563
+c1cc(cc(c1)S(=O)(=O)N)[C@H](C)NC(=O)CCCc1ccc(cc1)O                 ZINC75109323
+c1c(csc1C[N@@H+]1CC[C@H](CC1)CNC(=O)c1cnn(c1)C)C(=O)N              ZINC92759677
+c1cc(cc(c1c1ccc(CO)o1)Cl)NC(=O)c1ccc([N+](=O)[O-])o1               ZINC20139762
+c1cc(ccc1C[N@@H+]1CC[C@H](CC1)CNc1cc(nc(n1)N)Cl)OC                 ZINC63282511
+c1ccc(c(c1)c1nc(/C=C/c2ccc(cc2)OCC(=O)[O-])nc(n1)N)O               ZINC08515879
+c1cc2c(c(c1)O)CC[C@@H]2NC(=O)c1cc(C)n(c2ccc(cc2)OC)n1              ZINC92458472
+C(#N)c1ccc(cc1)CNC(=O)N1CCC(C(=O)c2ccc(cc2)O)CC1                   ZINC46042691
+C(#N)CCCOc1cccc(c1)NC(=O)Cc1c[nH]c2ccc(cc12)OC                     ZINC77702360
+c1cnc(cc1O[C@@H]1CC[N@H+](CC1)Cc1cc([N+](=O)[O-])sc1)C(=O)N        ZINC93261459
+c1cc(ccc1[C@@H](C)NC(=O)Nc1ccc(c(c1)C(=O)N)C)n1ccnc1               ZINC67314016
+c1cc(ccc1C(=O)NCc1ccc(cc1)Cn1cncn1)CNC(=O)C                        ZINC78358096
+c1cc(cc(c1)CNC(=O)N[C@H](c1ccc(cc1)n1ccnc1)C)C(=O)N                ZINC29328886
+c1cc(ccc1C(=O)N1CCN(c2ccc(nn2)n2ccnc2)CC1)NC                       ZINC70974877
+c1cc(ccc1CCNc1cc(ncn1)N1CCOCC1)S(=O)(=O)N                          ZINC65526115
+c1cc(cc(c1)OCCN1CCOCC1)CNc1cc(nc(n1)N)Cl                           ZINC60102973
+c1cc(ccc1C(=O)NNC(=O)CSc1nc(cc(=O)[nH]1)N)[N+](=O)[O-]             ZINC34705305
+c1cc2c(c(c1)O)CC[C@H]2NC(=O)c1ccn(c2cccc(c2)[N+](=O)[O-])n1        ZINC76687566
+c1cc(ccc1/C=C/C(=O)Nc1ccc(c(c1)NC(=O)C)F)n1ccnc1                   ZINC73767794
+c1cc(cc(c1)CNC(=O)[C@H](C)Oc1cccc(c1)C=O)c1nc(C)[nH]n1             ZINC89998249
+C(#N)c1ccc(cc1)[C@H](C)NC(=O)N[C@H](c1ccc2c(c1)NC(=O)CO2)C         ZINC77840070
+C(#N)c1ccc(cc1)N1C(=O)[C@H](CC1)Nc1cccc(c1)C(=O)NCCO               ZINC81159194
+C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1ccc(cc1)C(=O)N         ZINC92615033
+c1cc(cc(c1)CNC(=O)Nc1ccc(c(c1)C(=O)N)C)Cn1cncn1                    ZINC67310877
+c1cc(cc(c1)NC(=O)N[C@H](c1ccc(cc1)n1cncn1)C)NC(=O)C                ZINC76075104
+c1cc2c(cc1C(=O)N1CCN(CC1)CCc1ccc(cc1)OC)nc[nH]2                    ZINC63700298
+C(#N)c1ccc(cc1)CNC(=O)NCc1ccc(cc1)C(=O)NCCCC                       ZINC61921995
+c1cc(cnc1)CSc1ccc(cc1)C(=O)N(C)Cc1ccc(cc1)O                        ZINC52963789
+c1ccc2c(c1)c(c[nH]2)C[C@@H](CO)NC(=O)/C=C/c1ccc(cc1)[N+](=O)[O-]   ZINC92190098
+c1cc(cc(c1)NC(=O)C)[C@@H](C)OC(=O)Cc1ccc(cc1)n1cnnn1               ZINC57747114
+c1cc(cc2c1[nH]nc2C(=O)N)NC(=O)C1CCN(c2cnccn2)CC1                   ZINC89798998
+c1cc(cc(c1)O[C@H](C)CC)C(=O)Nc1ccc(cc1)c1ccc(CO)o1                 ZINC20142229
+c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(cc1)OCCCC                         ZINC20141804
+c1cc(ccc1c1ccc(CO)o1)NC(=O)c1ccc(cc1)O[C@H](C)CC                   ZINC20141981
+C(#N)COc1cccc(c1)CC(=O)Nc1ccc(cc1)C(=O)N[C@@H](C)CC                ZINC89758920
+c1cc2c(cc1C(=O)N1CCN(CC1)CCc1ccc(cc1)OC)nn[nH]2                    ZINC58215579
+C(#N)c1ccc(cc1)CSCC(=O)N1c2ccccc2[C@@H](C(=O)N)CC1                 ZINC89449967
+C(#N)c1ccc(cc1)SCCC(=O)N1c2ccccc2[C@H](C(=O)N)CC1                  ZINC89465538
+c1cc(c(c(c1)[N+](=O)[O-])C)C(=O)Nc1ccc(c(c1)C)c1ccc(CO)o1          ZINC20141034
+c1cc(cc(c1)O)/C=N/NC(=O)[C@@H]1C=C(c2ccc(c(c2)OC)OC)N=N1           ZINC39015673
+c1ccc2c(c1)c(CC(=O)NCC(=O)Nc1ccc(cc1)OC)n[nH]c2=O                  ZINC13570754
+c1cc2c(c(c1)O)CC[C@H]2NC(=O)N1CCN(C(=O)c2ccncc2)CC1                ZINC91859078
+c1cc(ccc1[C@H](C)NC(=O)NCc1ccc(c(c1)O)OC)n1ccnc1                   ZINC43158202
+c1cc(ccc1C(=O)NC)CN(C(=O)Nc1ccc2c(c1)CCC(=O)N2)C                   ZINC76103168
+c1cc(ccc1CCC(=O)N1CCN(c2c3c(ncn2)[nH]cn3)CC1)OC                    ZINC58194205
+c1cc(ccc1CCNC(=O)C1CCN(c2c3c(ncn2)nc[nH]3)CC1)O                    ZINC09059784
+C(#N)c1ccc(cc1)CSCC(=O)Oc1cccc(c1)NC(=O)C1CC1                     ZINC46126627
+c1cc(cc(c1)C[N@H+](C)CC)CNC(=O)Nc1ccc2c(c1)ccc(=O)o2              ZINC65819825
+c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)c1ccc(cc1)CSc1ncn[nH]1)O           ZINC81706850
+c1cc(cc(c1)CO)CNC(=O)N1CC=C(c2ccc(cc2)OCC)CC1                     ZINC91709671
+c1cc(cc(c1)C[N@@H+]1CCC[C@H]1Cn1ccnc1)c1nc(cc(=O)[nH]1)C[NH3+]    ZINC39489891
+c1cc(ccc1c1cc(CNCc2ccc(cc2)C(=O)NC)sc1)OC                         ZINC80249831
+c1cc(ccc1C(=O)N1CCN(c2ccc(cc2)C(=O)C)CC1)C[NH+](C)C               ZINC68251233
+c1cc(ccc1C(=O)NC)NC(=O)NCC(C)(C)N1CCS(=O)CC1                      ZINC85552082
+c1ccc2=[NH+]c3ccccc3C(=c2c1)NCCC[NH+]1CCN(CC1)CCO                 ZINC61997400
+c1cc(cc(c1c1ccc(CO)o1)OC)NC(=O)c1ccc2c(c1)OCO2                    ZINC20140727
+c1cc(c(c2c1c(c(c(=O)o2)CC(=O)NCc1ccc(cc1)OC)C)C)O                 ZINC04089059
+c1cc(ccc1n1c(cc(c1C)C(=O)NCc1ccc(C(=O)N)o1)C)OC                   ZINC82975428
+c1cc(cc(c1)NC(=O)Cc1csc(c2ccc(cc2)OC)n1)C(=O)N                    ZINC09446262
+c1cc2c(cc1[C@H](C)[NH2+]CCOc1ccc3c(c1)CCC(=O)N3)[nH]c(=O)[nH]2    ZINC91308700
+C(#N)c1cc(ccc1OC)C[N@@H+]1CC[C@H](CC1)Oc1ccnc(c1)C(=O)N           ZINC93260703
+c1cc(cc(c1)C[NH+](C)C)C(=O)Nc1ccc(cc1)C[C@H]1C(=O)NC(=O)N1        ZINC91701155
+c1cc(ccc1Cc1ccncc1)NC(=O)CSc1nc(cc(=O)[nH]1)N                     ZINC06548113
+c1cc(ccc1CC(=O)Nc1ccc(cc1)N1CCO[C@H](C1)C)NC(=O)C                 ZINC76447216
+c1cc(ccc1C(=O)Nc1ccc(cc1)CN1CCOCC1)CNC(=O)C                       ZINC78386667
+c1cc(c(cc1/C=N/NC(=O)CCCSc1nnc(N)s1)OC)O                          ZINC06126970
+c1cc(c(cc1C[N@H+]1CC[C@H](c2ccnn2CCO)CC1)C)n1cncn1                ZINC92811097
+c1cc(cc(c1)O)C[N@H+]1CC[C@H](c2nnc(Cn3ccnc3)n2CC)CC1              ZINC91872287
+c1cc(cc(c1)[N+](=O)[O-])C(=O)Nc1ccc(c(c1)OC)c1ccc(CO)o1           ZINC20140872
+C(#N)c1ccc(c(c1)OC)OCC(=O)Nc1cc(cc(c1)C(=O)N)C(=O)N               ZINC09437902
+c1cc(ccc1n1cnnn1)OCC(=O)N1Cc2ncc(C(=O)N)n2CC1                     ZINC67934157
+c1cc(cc2ccc(cc12)OC)[C@@H]1CN(CCO1)Cc1nc(C(=O)N)no1               ZINC71763743
+c1cc(cc(c1)O)[C@H](C)N(C(=O)NCc1ccc(c(c1)F)n1ccnc1)C              ZINC67634600
+c1cc(c2csc(n2)NC(=O)COc2ccc3c(c2)CCC(=O)N3)[nH]c1                 ZINC44838537
+c1cc(ccc1C=O)OCCC(=O)Nc1ccc(c(c1)C(=O)NC(C)C)C                    ZINC68448398
+c1cc(cc(c1)NC(=O)[C@@H](C)Oc1ccc(cc1)CCC(=O)C)NC(=O)C             ZINC21557366
+c1cc(ccc1C(=O)N1CCN(C(=O)Cc2ccc(cc2)OCC)CC1)O                     ZINC30661085
+c1cc(cc(c1)CNC(=O)COc1cccc(c1)C=O)C(=O)N[C@@H](C)CC               ZINC77208103
+c1cc(cc(c1)C(=O)NCCC)C(=O)Nc1ccc(cc1)O[C@@H]1CCOC1                ZINC78124001
+c1cc(cc(c1)OCCC(=O)N1Cc2cc(ccc2CC1)OCC)C(=O)N                     ZINC81727296
+c1cc(cc(c1)NCC(=O)Nc1cccc(c1)NC(=O)C)C(=O)NC(C)C                  ZINC66083849
+c1cc(cc(c1)NCC(=O)Nc1cccc(c1)NC(=O)CC)C(=O)NCC                    ZINC66092750
+c1cc(cc(c1)NCC(=O)Nc1cccc(c1)NC(=O)CCC)C(=O)NC                    ZINC66093502
+c1cc(ccc1C(=O)N)NC(=O)[C@@H](C)N1CCN(c2ccc(cc2)O)CC1              ZINC24165195
+c1ccc(c(c1)C(=O)N)NCC(=O)N1CCN(c2ccc(cc2)OC)CC1                   ZINC22356311
+C(#N)c1c2c(CN(C(=O)CCc3cccc(c3)C(=O)NC)CC2)sc1N                   ZINC89735403
+c1cc(cc(c1)NC(=O)N1CCN(C(=O)c2cccnc2)CC1)C[NH+](C)C               ZINC79672074
+c1cc(cc(c1)CNC1=CC=CC(=[NH+]1)CN1CCN(C(=O)C)CC1)C(=O)N            ZINC89808916
+C(#N)CSc1cccc(c1)C(=O)NCc1ccc(cc1)C[NH+](CC)CC                    ZINC79528560
+c1cc(c(cc1CO)NCC(=O)Nc1ccc(cc1)S(=O)(=O)C)Cl                      ZINC72086195
+c1cc(ccc1CNC(=O)Cc1c(c2c(cc(cc2O)O)oc1=O)C)OC                     ZINC08490563
+c1cc(c(cc1C(=O)NC)NC(=O)c1cc2cc(ccc2s1)[N+](=O)[O-])C             ZINC24922354
+c1cc(ccc1c1ccc(C(=O)Nc2nc(cs2)CC(=O)N)o1)C(=O)C                   ZINC14249253
+c1cc(cc(c1)NC(=O)CNc1ccc(cc1)C(=O)OCCC)NC(=O)C                    ZINC66211111
+c1cc(cc(c1)NC(=O)CNc1ccc(cc1)C(=O)OC)NC(=O)CCC                    ZINC66213472
+c1cc(ccc1C(=O)C)N1CCC(CC1)OC(=O)c1cc(cn1C)C(=O)N                  ZINC88810331
+c1cc(cc2c1cc(cn2)CN1CCN(c2nc(cs2)C(=O)N)CC1)O                     ZINC65373328
+c1ccc(cc1)[C@@H](CO)NC(=O)Nc1ccc(cc1)CCN1CCOCC1                   ZINC79595004
+C(#N)c1ccc(c(c1)Cl)OCC(=O)Nc1cccc(c1)C(=O)NC1CC1                  ZINC11157952
+c1cc(cc2c1nc(NC(=O)COc1ccc(cc1)[N+](=O)[O-])o2)NC(=O)C            ZINC06304988
+c1cc(ccc1CCNC(=O)[C@@H]1CCCN(c2ccc(cn2)[N+](=O)[O-])C1)O          ZINC20648841
+c1cc(cc(c1C)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])NC(=O)C              ZINC58146545
+c1cc(ccc1C1=CCN(C(=O)NCc2ccc(c(c2)F)O)CC1)OCC                     ZINC92283633
+C(#N)CCCOc1cccc(c1)CN1CCOC[C@@H]1C[C@@H](c1ccco1)O                ZINC92040238
+c1ccc(c(c1)CN(C(=O)Nc1ccc(cc1)OCC1CCOCC1)C)O                      ZINC77529272
+c1cc(ccc1C(=O)NC(C)(C)C)NC(=O)C[NH2+]Cc1ccc(cc1)OC                ZINC66092551
+c1cc(ccc1CCC(=O)N1CCC[C@@H](c2nnc3C[NH2+]CCn23)C1)OC              ZINC19711026
+C(#N)c1ccc(cc1)SCC(=O)Nc1cnn(c1)CC[NH+]1CCCCC1                    ZINC93083787
+c1cc(ccc1c1ccc(CNc2ccc(c(c2)C(=O)[O-])Cl)o1)[C@@H](C)O            ZINC20879123
+c1cc(ccc1c1ccc(/C=N/c2ccc(cc2)S(=O)(=O)N)o1)[N+](=O)[O-]          ZINC28467682
+c1cc(ccc1C(=O)N)n1c(nnn1)SCC(=O)c1ccc(c(c1)O)O                    ZINC02413037
+c1cc(ccc1/C=C/C(=O)Nc1ccc2c(c1)[nH]c(=O)[nH]2)[N-]S(=O)(=O)C      ZINC12605641
+c1cc(ccc1C1CCN(C(=O)Nc2cc(ccc2F)NC(=O)C)CC1)O                     ZINC44076353
+c1ccc2c(c1)c(c[nH]2)CCC(=O)N1CCN(C(=O)NCCC(=O)[O-])CC1            ZINC13692209
+c1cc(cc(c1)CC[NH2+][C@H](C)CC(=O)Nc1ccc(cc1)[N+](=O)[O-])C(=O)N   ZINC89545432
+c1cc(cc(c1)OCC(=O)N1CCC(c2ccnn2CCO)CC1)C(=O)C                      ZINC89543594
+c1cnc(cc1OC1CCN(C(=O)Cc2c(C)nn(c2C)C)CC1)C(=O)N                    ZINC89360386
+c1cc(ccc1CCC(=O)N1CCN(CC1)Cc1nc(nc(n1)N)N)OC                       ZINC58178478
+
+c1cc(ccc1C[C@@H](C(=O)N1CC[C@H](CC1)Oc1ccc(cc1)OC)[NH3+])O          ZINC72454682
+c1c(cc(c(c1C)O)C)C[N@H+]1CC[C@H](c2nc([C@H]3CCC(=O)N3)on2)CC1       ZINC12337306
+c1cc(ccc1NC(=O)N1CCN(C2=CC(=[NH+]C(=N2)NCC)C)CC1)OC                 ZINC64800336
+c1cc(cc(c1)NC(=O)N1CC[NH+](CC1)C[C@@H]1CCOC1)c1nc(C)[nH]n1          ZINC78549938
+c1cc(cc(c1/C=N/NC(=O)CCC(=O)Nc1ccc(cc1)[N+](=O)[O-])O)O             ZINC06221693
+c1ccc2c(c1)c(c[nH]2)/C=N/N=C/1\NC(=O)[C@@H](CC(=O)NCC(=O)[O-])S1    ZINC02668749
+c1cc(cc(c1)O)C(=O)NN1C(=O)/C(=C/c2ccc(cc2)O)/SC1=S                  ZINC01017748
+c1cc(cc(c1)OC)N1CC[C@@H](C1)CNC(=O)NCc1ccc(C(=O)N)o1                ZINC83208578
+c1cc(cc(c1)OC)N1CC[C@H](C1)CNC(=O)NCc1ccc(C(=O)N)o1                 ZINC83208583
+c1cc(cc(c1)OCCC(=O)N1CCN(CC1)Cc1cc(C)no1)C(=O)N                     ZINC81585396
+c1cc(ccc1C(=O)NCCC)NC(=O)CCCc1ccc(c(c1)F)OC                         ZINC84530457
+c1cc(cc(c1)NC(=S)NC(=O)/C=C/c1ccc(c(c1)OC)OC)CO                     ZINC12500659
+c1cc(ccc1C[C@@H]1C(=O)NC(=O)S1)OCCc1ccc(cn1)[C@H](C)O               ZINC06713959
+c1nc2c(c(n1)NCC[C@@H]1CN(c3cc(=O)n(C)nc3)CCO1)CC[NH2+]C2            ZINC67842668
+c1cc(ccc1[C@H]1C[C@H](C)[N@H+](C1)CCC(=O)Nc1cc(ccc1F)N)OC           ZINC83201923
+c1cc(cnc1)[C@@H](C)N1CC[N@H+](CC1)CCC(=O)Nc1cc(ccc1F)N              ZINC83174232
+c1cc([C@@H](CNC(=O)c2ccc(cc2)CSc2ncn[nH]2)[NH+](C)C)oc1             ZINC49943981
+c1cc(cc2c1cc[nH]2)C(=O)N1C[C@H]([C@H](C1)CO)C[N@@H+]1CC[C@H]
+(CC1)CO                                                             ZINC91645738
+c1cc(cc(c1)N1C(=O)c2ccc(cc2C1=O)Oc1ccc(cc1)N)C(=O)[O-]              ZINC01435573
+c1cc(cc(c1)[N+](=O)[O-])/C=C/C(=O)Nc1nc(cs1)C[NH+]1CCCCC1           ZINC69533969
+c1cc(ccc1C(=O)N)C[N@@H+]1CC[C@H](C(=O)N2CC[C@H](C(=O)N)CC2)CC1      ZINC77667760
+c1cc(cc(c1)OC)NC(=O)N1CCC(CC1)Cn1cc(C(C)(C)[NH3+])nn1               ZINC23379660
+c1cc(cc2c1ccn2CC[NH+](C)C)NC(=O)CCSc1nc(C)n[nH]1                    ZINC73880213
+c1cc(cc(c1)O)N1C(=O)c2ccc(cc2C1=O)Oc1ccc(cc1)C(=O)[O-]              ZINC59505661
+c1cc(cc2c1OCO2)OCc1nc(co1)C(=O)NCc1csc(n1)N                         ZINC67489669
+c1cc(cc(c1)O)c1ncc(cn1)NC(=O)c1cccc(c1)N1C(=O)CCC1                  ZINC57883042
+C(#N)COc1cccc(c1)NC(=O)NCCc1ccc(cc1)S(=O)(=O)N                      ZINC48514422
+c1cc(cc2c1cc[nH]2)NC(=O)C[C@H](C(=O)[O-])C[NH+]1CCN(CC1)CCO         ZINC72406508
+c1cc(ccc1c1cc(ccn1)[C@H]1CCN(C1)Cc1ccc(c(c1)C)O)CO                  ZINC65499153
+c1cc(ccc1c1cc(ccn1)[C@@H]1CCN(C1)Cc1ccc(c(c1)C)O)CO                 ZINC65499156
+c1cc(ccc1CC[C@H]1CCCC[N@@H+]1Cc1ccc(cc1)S(=O)(=O)C)O                ZINC72135543
+c1cc(ccc1CC[C@@H]1CCCC[N@H+]1Cc1ccc(cc1)S(=O)(=O)C)O                ZINC72135544
+c1cc(c(cc1CCC(=O)NNC(=O)Nc1ccc(c(c1)OC)OC)O)O                       ZINC01117472
+C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)c1c2cc(ccc2[nH]n1)C       ZINC92035606
+c1ccc2c(c1)c(c[nH]2)CCC(=O)N1CCN(c2ccc(cc2)C(=O)C)CC1               ZINC06976068
+C(#N)c1ccc(cc1)/C=C/CNc1cccc(c1)C[N@@H+]1CC[C@H](C(=O)N)CC1         ZINC89785458
+c1cc(cc(c1)NC(C)C)CNC(=O)N1CCC(CC1)OC1CCOCC1                        ZINC88615216
+c1cc(cc(c1)NC(C)C)CNC(=O)N[C@@H]1CC[N@@H+](CC1)C[C@@H]1CCOC1        ZINC88576020
+c1cc(ccc1c1nc(Cc2coc(c3ccc(cc3)OC)n2)no1)C(=O)N                     ZINC78773944
+c1cc(cc(c1NC(=O)N1CCN(C(=O)c2c(non2)N)CC1)OC)OC                     ZINC33014555
+c1cc2c(cc1NC(=O)NC(=O)CSc1nc(cc(n1)N)N)OCCO2                        ZINC03510247
+c1cc2c(cc[nH]2)c(c1)NC(=O)CCc1c(c2ccc(cc2oc1=O)OC)C                 ZINC58175605
+c1cc(c(cc1[C@H](C)Nc1c2c(ncn1)[nH]cn2)OC)OCc1ccncc1                 ZINC52433545
+c1cc(ccc1C(=O)CCC(=O)Nc1ccc(cc1)S(=O)(=O)N)OCC                      ZINC07060070
+c1cc(cc2c1[C@H]1CC[C@@]3(/C(=N/N=C/c4cnn(c4)C)/CC[C@H]3[C@H]1CC2)C)OZINC06525863
+c1cc(c(cc1c1nc(c2cn(cn2)Cc2ccc(cc2)N)on1)OC)OC                      ZINC21729855
+c1cc2c(cc1[N+](=O)[O-])nc(NC(=O)CSc1nc(cc(n1)N)N)s2                 ZINC59941832
+c1cc(cc(c1N1C[C@H](C)O[C@H](C1)C)F)NC(=O)Nc1cnn(c1)CCO              ZINC58184705
+c1cc(c(c(c1)O)C)C(=O)N1CCO[C@H](c2ccc3cc(ccc3c2)OC)C1               ZINC71777306
+C(#N)COc1ccc(cc1CC=C)/C=N/NC(=O)CC[C@H](c1ccccc1)O                  ZINC83325534
+c1cc(ccc1C(=O)N1CCCC[C@H]1CCc1ccc(cc1)O)n1cnnn1                     ZINC55414780
+C(#N)c1ccc(cc1)CNC(=O)NCc1ccc(cc1)C[N@H+]1CCCC[C@@H]1C              ZINC48809118
+C1=C([C@H]2CCCCO2)[SH+]C(=C1)C[N@@H+]1CC[C@H]
+(CC1)Cn1cc(C[NH3+])nn1                                              ZINC23430873
+c1ccc2c(c1)c(c[nH]2)CCC(=O)N1CCN(c2cccc(c2)[N+](=O)[O-])CC1         ZINC48306016
+c1cc(cc(c1)OC)c1cc(C(=O)N2CCN(c3cccc(c3)O)CC2)[nH]n1                ZINC92002398
+c1cc(ccc1Cn1cc(C(=O)Nc2ccc(cc2)OCC)nc1)NC(=O)C                      ZINC49421961
+c1cc(ccc1c1ccc(c(C)n1)C(=O)N)CNC(=O)Cc1c(C)noc1C                    ZINC19700547
+c1cc(cc(c1)O)/C(=N/NC(=O)[C@H]1C=C(c2ccc(cc2)OCCC)N=N1)/C           ZINC38906289
+c1cc(c(cc1C(=O)N)NC(=O)N(C)[C@H](c1ccc(cc1)n1cncn1)C)C              ZINC69604825
+c1cc(c(cc1C(=O)N)NC(=O)N(C)[C@@H](c1ccc(cc1)n1cncn1)C)C             ZINC58450588
+c1cc(cc(c1)NC(=O)C1CCN(c2ccc(=O)n(C)n2)CC1)c1ccn[nH]1               ZINC90592558
+c1ccc2c(c1)c(nc(CN1CC[NH+](CC1)CCc1ccc(cc1)OC)n2)N                  ZINC25026714
+C1=C[NH+]=C(C2CCN(C(=O)CN3CC(=O)NCC3)CC2)N1CCC[NH+](C)C             ZINC95354049
+c1cc(c(cc1[N+](=O)[O-])C(=O)OCC(=O)Nc1c(ccs1)C(=O)N)OC              ZINC19284790
+c1ccc(c(c1)CCC(=O)N/N=C/c1ccc(c2ccc(cc2)[N+](=O)[O-])o1)O           ZINC00711502
+c1ccc2c(c1)c(cc(=O)[nH]2)C(=O)OCC(=O)Nc1ccc(cc1)NC(=O)C          ZINC15481635
+c1cc(ccc1C(=O)Nc1ccc(c(c1)NC(=O)C)F)OCc1ccncc1                   ZINC24459453
+c1cc(ccc1CCNC(=O)COC(=O)c1cc[n+](cc1)[O-])S(=O)(=O)N             ZINC05961572
+c1cc(ccc1CNC(=O)[C@H](C)Oc1ccc(cc1)[N+](=O)[O-])S(=O)(=O)N       ZINC66200915
+c1cc(cc(c1)NC(=O)[C@H]1CC(=O)N(c2cccc(c2)NC(=O)C)C1)C(=O)C       ZINC21657373
+C(#N)c1ccc(c(c1)OCC)OCC(=O)Nc1cccc(c1)C(=O)NC1CC1                ZINC10637656
+c1cc(c(cc1[C@@H](C)NC(=O)c1c(nccn1)N)OC)OCc1ccncc1               ZINC47673711
+c1cc(ccc1C(=O)NCC)CNC(=O)Nc1ccc(c(c1)C)n1cnnn1                   ZINC58546522
+c1cc(cc(c1)O)/C=C\1/C(=O)N(C(=S)S1)CCC(=O)NCCC(=O)[O-]           ZINC15038409
+c1cc(ccc1C1=CCN(C(=O)Nc2ccc(c(c2)C(=O)N)C)CC1)OCC                ZINC92033230
+c1cc(ccc1/C=N/NC(=O)CCCSc1nnc(N)s1)C(=O)OC                       ZINC20805906
+C1=C(N=C([NH+]=C1C)N)N1CCN(CC1)C[C@@]1(C(=O)N(CCC1)CCOC)O        ZINC67514114
+c1cc(ccc1C(=O)N)NC(=O)C[N@H+]1C[C@@H](c2nc(c3cnccn3)no2)C1       ZINC49485806
+c1cc(cc(c1)NC(=O)CCc1c(c2ccc(cc2oc1=O)O)C)NC(=O)C                ZINC12893757
+c1cc(ccc1c1nc(co1)COC(=O)c1ccc(cc1)CNC(=O)C)OC                   ZINC32906961
+c1ccc2c(c1)c(c(C(=O)N)o2)NC(=O)COc1ccc(cc1)CCC(=O)C              ZINC62866005
+c1cc(cc(c1)NC(=O)COc1ccc2c(c1)oc(=O)cc2C)C(=O)NCC                ZINC14223581
+c1cc(ccc1C(=O)NCC(=O)Nc1ccc(cc1)C(=O)N)N1C(=O)CCC1               ZINC22688958
+c1cc(cc(c1)OCc1nnnn1CC)C(=O)Nc1ccc(cc1)C(=O)NC                   ZINC40771458
+c1cc(ccc1C1=CCN(C(=O)COc2ccc(cc2)C(=O)N)CC1)OCC                  ZINC91925946
+c1ccc2c(c1)c(nc(CN1CCN(C(=O)CCCn3ccnn3)CC1)n2)N                  ZINC93918018
+c1cc(cc(c1)O)C(=O)N1CCN(CC1)Cc1cnc(c2cccnc2)s1                   ZINC92937621
+c1cc(cc(c1)CO)C[C@H]1CC[N@H+](C1)C1CCN(C(=O)c2ccncc2)CC1         ZINC91643962
+c1cc(c(cc1CN[C@@H]1CC[N@@H+](CC1)CCN1CCOCC1)F)C[NH+](C)C         ZINC90919868
+c1cc(cc(c1n1cncn1)C(F)(F)F)NC(=O)Nc1cnn(c1)CCO                   ZINC69301166
+c1cc(cc(c1c1ccc(CO)o1)OC)NC(=O)c1ccc2c(c1)OCCO2                  ZINC20140782
+c1cc(ccc1/C=C\1/C(=O)N(C(=O)N1)CC(=O)Nc1ccc(cc1)OCC)O            ZINC15051927
+C(#CCOc1cccc(c1)NC(=O)C)CNC(=O)c1cccc(c1C)[N+](=O)[O-]           ZINC90732024
+c1cc2cnccc2c(c1)OCc1nc(co1)C(=O)NCc1csc(n1)N                     ZINC67966851
+c1cc(cc(c1c1ccc(CO)o1)OC)NC(=O)c1ccc(cc1)OC(C)C                  ZINC20141872
+c1cc(cc(c1)O)C(=O)N1CC[NH+](CC1)[C@@H]1CC[C@H](c2ccc(cc2)O)CC1   ZINC92937641
+c1cc(cc(c1)NC(=O)c1ccncc1)CNc1c(cc(cn1)C(=O)N)Cl                 ZINC54836958
+c1cc(cc(c1)C[S@](=O)CC(=O)Nc1ccc(cc1)OC(F)F)C(=O)N               ZINC64827505
+c1cc(cc(c1)O)[N-]C1=NC(=O)/C(=C/c2ccc(cc2)OCCC(=O)[O-])/S1       ZINC16908041
+c1cc(ccc1C(=O)NCC)NC(=O)CCC(=O)c1ccc(cc1)OCCC                    ZINC47276154
+c1cc(cc(c1)NC(=O)CCC(=O)c1ccc(cc1)OCCC)C(=O)NCC                  ZINC15023354
+c1cc(ccc1C(=O)NC)CNC(=O)Nc1ccc(cc1C)N1CCOCC1                     ZINC44358128
+c1cc(cc(c1)NC(=O)N1CCN(c2ccc(cc2)O)CC1)NC(=O)C(C)C               ZINC44084628
+c1cc(ccc1C(=O)N)NC(=O)C[N@@H+]1CC=C(c2cnn(c2)C(C)(C)C)CC1        ZINC65434167
+c1cc(ccc1C(=O)NC)CNC1=CC(=[NH+]C=C1)CN1CCN(C(=O)C)CC1            ZINC92828265
+c1cc(c(cc1NC(=O)COc1ccc(cc1)OC)c1ccc(CO)o1)OC                    ZINC20144653
+C(#N)c1ccc(nc1)N1CCC(CC1)NC(=O)NC[C@@H](c1ccco1)[NH+](C)C        ZINC67381695
+c1cc(cc(c1)NC(=O)c1ccc(cc1)OCCCOC)CC[NH+]1CCCC1                  ZINC94122660
+c1cc(ccc1c1ccc(/C=N/Nc2ccc(cc2)C(=O)[O-])o1)S(=O)(=O)N           ZINC05531100
+c1cc(ccc1[N-]C1=NC(=O)[C@H](CC(=O)NCC(=O)[O-])S1)S(=O)(=O)N      ZINC24115836
+c1cc(cc(c1)[N+](=O)[O-])C(=O)Nc1ccc(cc1)OC[C@@H](c1cccs1)O       ZINC27214400
+c1cc(ccc1c1nnco1)OCC(=O)Nc1c(c2c(CCC2)s1)C(=O)N                  ZINC07989813
+c1cc(ncc1N1CC[NH+](CC1)CCCn1cnc2c1ncnc2N)[N+](=O)[O-]            ZINC58003659
+c1cc(cc(c1)O)C(=O)NN1C(=O)/C(=C/c2ccc(cc2)C=O)/SC1=S             ZINC05552978
+c1cc(cc(c1)NC(=O)CNc1cc(ccc1OC)NC(=O)C)C(=O)NCC                  ZINC10186083
+c1cc(cc(c1C)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])NC(=O)CC            ZINC58290142
+c1cc(cc(c1)NC(=O)CCc1ccc(cc1)S(=O)(=O)NC)c1ccn[nH]1              ZINC24885892
+c1cc(ccc1CC[C@@H](C)NC(=O)N1Cc2cc(c(cc2CC1)OC)OC)O               ZINC45606956
+C(#N)c1ccc(c(c1)F)N1CC[NH+](CC1)Cc1ccc(cc1)OCC[NH+](C)C          ZINC92596786
+c1cc(cc(c1)NC(=O)c1ccc(nc1)OCCCOC)CC[NH+]1CCCC1                  ZINC94122811
+c1cc(ccc1C[C@H](C)[N@H+]1CC[C@@H](CC1)n1cc(C(=O)NC2CC2)nn1)OC    ZINC14986528
+c1cc(c(cc1C(=O)NCc1ccnc(c1)Oc1ccc(cc1)OC)Cl)O                    ZINC54030840
+C(#N)c1ccc(cc1Cl)NC(=O)CNc1cccc(c1C)NC(=O)CCC                    ZINC63479845
+c1cc(c(cc1CC(=O)OCC(=O)Nc1ccc2c(c1)[nH]c(=O)[nH]2)OC)OC          ZINC32838877
+c1ccc2c(c1)/C(=C\c1ccc(cc1)OCc1ccc(cc1)C(=O)OC)/C(=O)N2          ZINC03309852
+c1ccc(c(c1)c1nnc(n1N)SCCC(=O)Nc1cccc(c1)OC)O                     ZINC59264028
+c1cc(c(cc1C(=O)N)NC(=O)c1ccn(c2ccc(cc2)[N+](=O)[O-])n1)Cl        ZINC78782371
+c1cc(ccc1/C=N/NC(=O)[C@H]([C@@H](C(=O)N/N=C/c1ccc(cc1)O)O)O)O    ZINC02896207
+c1cc(cc(c1)OC)N1CCN(C(=O)Nc2ccc(c(c2)C(=O)NC)F)CC1               ZINC50086295
+c1cc(cc(c1)NC(=O)N)C(=O)N1CCN(CC1)Cc1ccc(c(c1)F)OC               ZINC24332098
+c1cc(cc(c1)O)NC(=O)C[C@H]1C(=O)N(c2ccc(cc2)OCC)C(=O)S1           ZINC16924260
+c1ccc(cc1)[C@@H](Cn1cc(C(=O)Nc2ccc(cc2)S(=O)(=O)C)nn1)O          ZINC77197184
+c1cc(ccc1C(=O)NC)OCC(=O)N1CCN(CC1)Cc1c(C)noc1C                   ZINC53823208
+c1ccc2c(c1)nc(c1ccc(cc1)NC(=O)NCCc1ccc(cc1)OC)[nH]2              ZINC44441379
+c1cc2c(c[nH]c2nc1)[C@H]1CC[N@@H+](CC1)Cc1ccc(cc1)Oc1cnccn1       ZINC91955542
+c1cc2c(cc1CCCC(=O)NC1CCN(C(=O)CC(C)C)CC1)[nH]c(=O)[nH]2              ZINC78610023
+c1cc(C[N@H+]2Cc3cc(CNC(=O)N(C)C)nn3CC2)sc1c1cc[nH]n1                 ZINC91452012
+c1cc(c(c(c1)[N+](=O)[O-])C)C(=O)Nc1ccc(c(c1)c1ccc(CO)o1)Cl           ZINC20141026
+c1cc(cc2c1c(c[nH]2)CC(=O)NNC(=O)CNc1ccc(cc1)OC)Cl                    ZINC69372156
+C(#N)c1cccc(c1)NC(=O)CN1C(=O)[C@@H](Cc2c[nH]c3ccccc23)NC1=O           ZINC03416834
+c1cc(cc(c1)OCC(=O)NCc1ccc(cc1)S(=O)(=O)N)n1cnnc1                      ZINC95475460
+C(#N)c1ccc(cc1)CN1CCN(C(=O)Cc2c3ccccc3c(=O)[nH]n2)CC1                 ZINC23437004
+c1cc(c(nc1)Cl)NC(=O)[C@@H](C)OC(=O)/C=C/c1ccc(cc1)C(=O)NC             ZINC31605726
+c1cc(cc(c1)OCCC[N@@H+]1Cc2c(NC1)n(c(=O)n(c2=O)C)C)NC(=O)C             ZINC04381347
+c1cc(ccc1N1C[C@H](C)O[C@H](C1)C)NC(=O)CO/N=C(\c1ccsc1)/N              ZINC64551707
+c1cc(/C(=N\OCC(=O)Nc2ccc(cc2)N2C[C@H](C)O[C@H](C2)C)/N)sc1            ZINC64551756
+c1cc(ccc1N1CCOCC1)NC(=O)Cc1nc([C@H](CCC)[NH+](C)C)on1                 ZINC93888404
+c1cc(ccc1CNC(=O)CCC(=O)N1CCOCC1)C[N@H+]1CCC[C@H](C1)C                 ZINC36398551
+c1cc(cc(c1)S(=O)(=O)NC)C(=O)OCC(=O)c1ccc2c(c1)[nH]c(=O)[nH]2          ZINC07974208
+c1csc(c1C(=O)N)NC(=O)COC(=O)C1CCN(CC1)S(=O)(=O)C                      ZINC11594626
+c1cc(c(cc1C[N@H+]1CC[C@H](c2ccnn2CCO)CC1)F)N1CCOCC1                   ZINC92811224
+c1ccc(cc1)[C@H](C(=O)NC)NC(=O)C[N@@H+]1CC[C@H](CC1)CN1CCOCC1          ZINC69028375
+c1cc2cc(ccc2nc1)OCc1nc(co1)C(=O)N(C)Cc1cnc(nc1)N                      ZINC67562804
+C(#CCOc1cccc(c1)NC(=O)C)CNC(=O)c1cccc(c1)n1cnnn1                      ZINC90731888
+c1cc(ccc1C(=O)N1CCN(C(=O)c2ccc(cc2)O)CC1)Cn1ccnc1                     ZINC60626246
+c1ccc2c(c1)c(c[nH]2)CC(=O)NNC(=O)c1ccc(cc1)CN1C(=O)CCC1               ZINC25449338
+c1ccnc(c1)COc1ccc(cc1)CNC(=O)Nc1ccc(c(c1)C(=O)N)C                     ZINC67310441
+c1cc(ccc1C(=O)CC)OCC(=O)N[C@@H](c1ccc(cc1)S(=O)(=O)N)C                ZINC06602410
+c1cnc(nc1N1CCC2(CC1)CN(C(=O)O2)CC[N@H+]1CC[C@@H](C1)N(C)C)N           ZINC77535435
+c1cc(cc(c1)S(=O)(=O)N)[C@H](C)[N@@H+](C)Cc1ccc(cc1)N1CCOCC1           ZINC92585545
+c1cc(ccc1c1nc(cc(n1)NCc1ccc(cc1)C(=O)NC)CC)[N+](=O)[O-]               ZINC53557935
+C(#N)c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(CNC(=O)C)s1                     ZINC67067538
+c1cc(ccc1N1CCN(C(=O)CSc2ncc(CO)n2C)CC1)[N+](=O)[O-]                   ZINC72307074
+c1cc2c(c[nH]c2nc1)C1CCN(C(=O)CCC(=O)c2ccc(cc2)OC)CC1                  ZINC61427592
+C(#N)CC(=O)Nc1ccc(cc1)C(=O)NCc1ccc(cc1)C[NH+]1CCCCC1                  ZINC12899012
+c1cc(ccc1n1c(c(cn1)C(=O)Nc1ccc2c(c1)[nH]c(=[O-])o2)CC)[N+](=O)[O-]    ZINC33015851
+c1cc(ccc1Cc1ccc(cc1)NC(=O)/C=C/C(=O)[O-])NC(=O)/C=C/C(=O)[O-]         ZINC02044988
+c1cc(ccc1Cc1ccc(cc1)NC(=O)/C=C/C(=O)[O-])NC(=O)/C=C/C(=O)[O-]         ZINC08616707
+c1cc(ccc1c1ccc(=O)n(CC(=O)Nc2ccc(cc2)C(=O)N)n1)OCC                    ZINC38827713
+c1ccc2c(c1)c(c[nH]2)C[C@H](C)NC(=O)C[C@@H]1C(=O)Oc2cc(ccc2[C@@H]1C)O ZINC38573757
+c1cc2c(cc1CNC(=O)[C@H](C)[NH2+]Cc1ccc(cc1)S(=O)(=O)N)OCO2             ZINC08428823
+c1ccc2c(c1)c(c[nH]2)CC(=O)N1CCN(C(=O)Nc2ccc(cc2)OC)CC1                ZINC47323999
+c1ccc2c(c1)c(c[nH]2)C(=O)N(C)CC(=O)Nc1ccc(cc1)N1CCOCC1                ZINC07220140
+c1ccc2c(c1)NC(=O)CN2CC(=O)N1CCN(c2ccc(cc2)C(=O)C)CC1                  ZINC72314836
+c1ccc(cc1)C1=[NH+]C=CN1CCN1CCN(CC1)Cc1ccc(cc1)[N+](=O)[O-]            ZINC77159642
+c1cc(cc2c1c(c(C(=O)N/N=C/c1ccc(c(c1O)O)O)s2)Cl)OC                     ZINC04965176
+c1ccc2c(c1)c(c[nH]2)c1nnc(o1)SCC(=O)Nc1ccc(cc1)C(=O)[O-]              ZINC03277438
+C(#N)c1cccc(c1)NC(=O)CSc1nc([nH]n1)N/N=C/c1ccc(cc1)O                  ZINC21078064
+c1cc(cc(c1)NC(=O)c1ccc(cc1)OC)/C=C/c1ncc(C(=O)NC)s1                   ZINC72057925
+c1ccc2c(c1)c(cc(n2)SCCC(=O)Nc1ccc(cc1)C(=O)C)C(=O)N                   ZINC32907163
+c1cc(ccc1CNC(=O)C(=O)Nc1ccc(nc1)n1ccnc1C)C[NH+](C)C                   ZINC70798107
+c1cc(ccc1c1nc(cc(=O)[nH]1)CC)C[NH+]1CCN(CC1)CCn1ccnc1                 ZINC23478633
+c1cc2c(cc1C(=O)N1CCN(C(=O)Nc3ccc(cc3)[N+](=O)[O-])CC1)nc[nH]2         ZINC40158489
+c1cc(cc(c1)O)C[NH+]1CCN(CC1)Cc1cc(ccc1OC(F)F)[N+](=O)[O-]             ZINC92789677
+c1cc(cc(c1)NC(=O)/C=C/c1cccc(c1)[N+](=O)[O-])C(=O)Nc1nccs1            ZINC58867695
+c1cc(cc(c1)NC(=O)[C@@H](C)Oc1ccc2c(c1)oc(=O)cc2CC)C(=O)NC             ZINC21586527
+c1cc(ccc1C(=O)NC1CCCC1)NC(=O)CCC(=O)c1ccc(cc1)OC                      ZINC61408769
+c1c/c(=[NH+]/C(=O)CN2CCN(CC2)S(=O)(=O)CC)/cc2c1c(cc(o2)O)C            ZINC20045557
+c1cc(cc(c1)NC(=O)C)/C(=N\NC(=O)c1ccc(cc1)CN1CCOCC1)/C                 ZINC19770679
+c1cc2c(cc1C(=O)N1CCC(CC1)CCc1cc(cc(c1)OC)OC)n[nH]n2                   ZINC08719788
+C(#N)c1ccc(nc1)O[C@@H]1CC[C@@H](CC1)NC(=O)N[C@@H](c1ccccc1O)CC        ZINC92408145
+C(#N)c1ccc(cc1)CN1CCN(c2ccc(cn2)c2nc3ccccc3[nH]2)CC1                  ZINC23994720
+c1ccnc(c1)CCN1CCC(CC1)[N@H+]([C@@H]1CC[C@H](c2ccc(cc2)O)CC1)C         ZINC92932821
+c1cc(ccc1C(=O)[O-])n1c(cc(c1C)/C=C/c1nc(c(c(=O)[nH]1)[N+](=O)[O-])O)C ZINC09186406
+c1ccc2c(c1)c(CC(=O)OCC(=O)NCc1ccc3c(c1)OCO3)n[nH]c2=O                 ZINC03409031
+c1ccc(cc1)[C@@](C(=O)N)(C)NC(=O)[C@H](C)NC(=O)/C=C/c1ccc(cc1)OC       ZINC58151831
+c1cc(c(cc1CC(=O)N1CCC(c2ncc3c(CC[N@H+](C3)C)n2)CC1)C)OC               ZINC19571077
+C(#N)c1cccc(c1)OCc1ccoc1C(=O)Nc1cc(ccc1Cl)C(=O)N                      ZINC78915559
+c1cc(ccc1C(=O)[C@H](C)OC(=O)c1ccc(c(c1)N)Cl)[N-]S(=O)(=O)C            ZINC07026041
+c1cc(ccc1C(=O)NC)C[S@](=O)CC(=O)Nc1ccc(cc1)OC(F)F                     ZINC66949886
+c1cc(cc2c(c(C)[nH]c12)CC(=O)N1CCN(c2ccc(cc2)[N+](=O)[O-])CC1)F        ZINC24544560
+c1cc(cc2c1nc(NC(=O)Cn1c(=O)c3cc(ccc3nc1C)O)s2)OC                      ZINC72401279
+c1cc(ccc1C(=O)NCC(=O)N)CNC(=O)c1ccc(cc1)N1CCOCC1                      ZINC62581329
+c1cc(cc(c1)NC(=O)CNc1cccc(c1)NC(=O)COC)C(=O)NC1CC1                    ZINC29943467
+c1cc2c(cc1c1nc([C@@H]3CCC(=O)N(C3)CCN3CCOCC3)on1)[nH]cn2           ZINC92001782
+c1cc(cc(c1C)C(=O)N)NC(=O)N1CCN(CC1)Cc1ccc(cc1)OCC                  ZINC67312252
+c1cc(ccc1C(=O)N)NC(=O)[C@@H](C)Nc1ccc(cc1)CCN1CCOCC1               ZINC56216032
+c1ccc(cc1)[C@@H](CNC(=O)COc1ccc2c(c1)CCC(=O)N2)[NH+](CC)CC         ZINC32902075
+c1cc(ccc1C(=O)[O-])NC(=O)CN1C(=O)/C(=C/c2ccc(cc2)O)/SC1=O          ZINC15049855
+c1cc(cc(c1)NC(=O)CNc1ccc(c(c1)n1c(C)nnn1)F)C(=O)NCC                 ZINC68964233
+c1cc(cc(c1)NC(=O)Cc1c(c2ccc(c(c2oc1=O)OC)OC)C)[C@@H](C)O            ZINC12894477
+C(#N)c1ccc(c(c1)OC)Oc1ccc(cc1)NC(=O)c1c2ccccc2[nH]c1C               ZINC72072371
+c1cc(ccc1C1=CCN(C(=O)Nc2ccc(c(c2)NC(=O)C)F)CC1)OCC                  ZINC91935373
+c1cc(ccc1C1=CCN(C(=O)Nc2ccc(c(c2)C(=O)NC)F)CC1)OCC                  ZINC92031322
+c1cc2c(cc1/N=C/c1cc(C)n(c3ccc(cc3)S(=O)(=O)N)c1C)OCO2               ZINC04675760
+c1ccc(cc1)[C@@H](C1CCN(C(=O)Nc2nc3ccc(cc3s2)OC)CC1)O                ZINC72280554
+c1cc2c(c(c1)NC(=O)COCC(=O)NCc1cccnc1)C[N@H+](C2)CC(C)C              ZINC92408291
+c1cc(ccc1OC)OCC(=O)N1CCC(c2ncc3c(CC[N@H+](C3)C)n2)CC1               ZINC19590678
+c1cc(ccc1C(=O)N1CCC(c2ncc3c(CC[NH2+]C3)n2)CC1)OCCOC                 ZINC19593654
+c1c(c(c(cc1S(=O)(=O)N)NC(=O)C[N@H+]1CCC[C@H](C1)CCC(=O)N)C)C        ZINC58307103
+c1ccc(cc1)c1c(c[nH]n1)C[N@@H+]1CC[C@H](CC1)CCC(=O)NC[C@@H]1CCCO1 ZINC15061959
+c1cc(cc(c1)C[NH+](C)C)CNC(=O)N[C@H](c1ccc(cc1)N1CCOCC1)C            ZINC68549335
+c1cc(ccc1[C@H]1CC[C@H](CC1)[N@@H+]1CC[C@H](CC1)CNC(=O)c1cnn(c1)C)OZINC92934611
+c1cc(ccc1CC(=O)N/N=C/c1c(n(c(=O)s1)CC(=O)OCC)Cl)O                   ZINC04942514
+c1cc(cc(c1)CNC(=O)Nc1cccc(c1)C(=O)NCC(=O)OC)C(=O)NC                 ZINC48152980
+c1cc(ccc1n1cnnn1)OCC(=O)Nc1cn(CC)nc1C(=O)NCCC                       ZINC28236566
+c1cc(ccc1c1ccc2c(c1)CCO2)CNC(=O)c1ccc(o1)S(=O)(=O)N                 ZINC61603815
+c1cc(ccc1c1nc(C)no1)C(=O)NNC(=O)c1ccc(C[NH+](CC)CC)o1               ZINC69298041
+c1cc(c(c(c1)NC(=O)CCCNc1ccc(cc1)[N+](=O)[O-])C)NC(=O)CCC            ZINC62297980
+c1ccc2c(c1)c(c[nH]2)CCC(=O)Nc1ccc(c(c1)NC(=O)c1ccncc1)C             ZINC67068155
+c1cc(ccc1CNC(=O)COc1ccc(cc1)[N+](=O)[O-])C[N@@H+]1CCC[C@@H](C1)C    ZINC58948994
+c1cc([C@H](CNC(=O)c2ccc(cc2)CSc2ncn[nH]2)[NH+]2CCCC2)oc1            ZINC34887554
+c1ccc2c(c1)c1c(nc(nn1)N/N=C/c1ccc(c3ccc(cc3)[N+](=O)[O-])o1)[nH]2   ZINC04587358
+c1ccc(cc1)COc1ccc(cc1)C(=O)Nc1ccc(cc1)c1ccc(CO)o1                   ZINC20145012
+c1cc(cc(c1)C(=O)[O-])c1ccc(CNCCc2ccc(cc2)S(=O)(=O)N)o1              ZINC20585723
+c1ccc(cc1)[C@H](Cc1ncc[nH]1)NC(=O)c1ccc(c2ccc(cc2)C(=O)C)o1         ZINC12549886
+c1cc2c(cc1C(=O)Nc1nc(cs1)c1cc(C(=O)N)[nH]c1)NC(=O)CS2               ZINC39554905
+c1cc(cc(c1)NC(=S)NC(=O)/C=C/c1ccc(c(c1)OC)OC)C(=O)NC                ZINC13630781
+c1cc(cnc1)NC(=O)CCc1c(C)nn(c2ccc(cc2)S(=O)(=O)N)c1C                 ZINC63119845
+c1ccc(c(c1)c1nnc(n1N)SCCC(=O)Nc1ccc(cc1)OCC)O                       ZINC59264036
+c1cc(cc(c1)O)NC(=O)CSc1nnc(c2ccncc2)n1CCCOC                         ZINC04169272
+c1cc(c(cc1CC(=O)N1CCC(c2ncc3c(CC[N@H+](C3)C)n2)CC1)F)OC             ZINC19590681
+c1cc2c(c(c1)NC(=O)/C=C/c1ccc(cc1)[N-]S(=O)(=O)C)C[N@@H+](C2)CCC     ZINC66761138
+C(#N)c1ccc(cc1Cl)NC(=O)C(=O)N(Cc1ccc(cc1)C[NH+](C)C)CC              ZINC66725640
+c1cc(cc(c1)[N+](=O)[O-])C[C@@H]1C(=O)N/C(=N\N=C\c2ccc(c(c2)OC)O)/S1 ZINC39888178
+c1cc(ccc1CSc1nc([nH]n1)N/N=C/c1cc(ccc1O)OC)[N+](=O)[O-]             ZINC21075672
+C(#N)/C(=C\c1ccc(cc1)N1CCOCC1)/C(=O)NCCc1c[nH]c2ccccc12             ZINC01093585
+c1cc(ccc1N1CCN(C(=O)Cc2csc(n2)NC(=O)C2CC2)CC1)OC                    ZINC09573757
+c1nc2c(c(n1)N1CCC(CC1)[N@@H+]1CCC[C@@H](C(=O)N3CCOCC3)C1)nc[nH]2 ZINC71712255
+c1nc2c(c(n1)N1CCC(CC1)[N@H+]1CCC[C@H](C(=O)N3CCOCC3)C1)nc[nH]2      ZINC71712254
+
